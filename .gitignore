@@ -3,6 +3,33 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+
+.DS_Store
+
+.ipynb_checkpoints
+.vscode/
+__pycache__
+testfunciones.py
+
+token.txt
+API.txt
+password.txt
+
+
+cookies
+restaurantes/cookies
+restaurantes/rest_notes/cookies
+entradas/cookies
+entradas/Notebooks/cookies
+
+
+
+
+
+
+
+
+
 # C extensions
 *.so
 
