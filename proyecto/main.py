@@ -71,14 +71,6 @@ with imagen:
     st.image(amanece_contact_form, width=600)
 
 
-""""
-LOGO ENTRADAS.COM
-https://www.entradas.com/obj/media/ES-eventim/specialLogos/checkoutApp/logo.svg
-
-"""
-
-
-
 import pandas as pd
 
 # Supongamos que tienes un DataFrame llamado 'datos'

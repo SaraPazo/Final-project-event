@@ -13,11 +13,21 @@ st.set_page_config(page_title='Tu experiencia - Eventos', page_icon="🎭", layo
 # ----- LOAD COSILLAS ---- 
 
 entradas_contact_form = Image.open('../imagenes/entradas.jpeg')
+#### estrella_contact_form = Image.open('../estrella/entradas.jpeg')
 
 # --- head ---
 
+# Mostrar las imágenes en columnas
+col1, col2 = st.columns(2)
 
-st.image(entradas_contact_form, width = 200)
+# Imagen a la izquierda
+with col1:
+    st.image(entradas_contact_form, width=200)
+
+# Imagen a la derecha
+'''with col2:
+    st.image(estrella_contact_form, width=200)'''
+
 
 st.title('¿Qué te gustaría hacer?')
 
