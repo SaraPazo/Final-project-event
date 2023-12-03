@@ -19,12 +19,12 @@ st.set_page_config(page_title='Crea Tu Experiencia', page_icon="😉", layout="w
 
 # ----- LOAD COSILLAS ---- 
 
-amanece_contact_form = Image.open('../imagenes/Amanece.jpeg')
-terraza_contact_form = Image.open('../imagenes/Terraza.jpeg')
-paella_contact_form = Image.open('../imagenes/paella.jpeg')
-madrid_contact_form = Image.open('../imagenes/madrid.jpeg')
-spainPost_contact_form = Image.open('../imagenes/SpainPostcard.jpeg')
-spain_contact_form = Image.open('../imagenes/Spain.jpeg')
+amanece_contact_form = Image.open('../proyecto/imagenes/Amanece.jpeg')
+terraza_contact_form = Image.open('../proyecto/imagenes/Terraza.jpeg')
+paella_contact_form = Image.open('../proyecto/imagenes/paella.jpeg')
+madrid_contact_form = Image.open('../proyecto/imagenes/madrid.jpeg')
+spainPost_contact_form = Image.open('../proyecto/imagenes/SpainPostcard.jpeg')
+spain_contact_form = Image.open('../proyecto/imagenes/Spain.jpeg')
 
 
 # ---- HEADER ---- 
@@ -82,7 +82,7 @@ https://www.entradas.com/obj/media/ES-eventim/specialLogos/checkoutApp/logo.svg
 import pandas as pd
 
 # Supongamos que tienes un DataFrame llamado 'datos'
-datos = pd.read_csv('../csv/restaurante_fin.csv')
+datos = pd.read_csv('../proyecto/csv/restaurante_fin.csv')
 
 # Insertar y hacer selecciones de filas en una columna específica
 columna_seleccionada = st.multiselect('Selecciona la columna', datos.gastronomia)
