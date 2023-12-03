@@ -1,301 +1,297 @@
-,restaurante,gastronomia,precio,opinion,reseña,ubicacion,punto,barrio,lat,long
-0,Yakiniku Rikyu,Japonesa,Medio,267 opiniones,Patrocinado,"P.º de la Castellana, 15, 28046 Madrid",POINT (-3.690173 40.4280979),Almagro,40.4280979,-3.690173
-1,marmitón,Mediterránea,Medio,89 opiniones,MICHELIN,"C. de las Aguas, 6, 28005 Madrid",POINT (-3.712107746868964 40.4108219),Palacio,40.4108219,-3.712107746868964
-2,Vinoteca Moratín,Internacional,Medio,1221 opiniones,MICHELIN,"C. de Moratín, 36, 28014 Madrid",POINT (-3.6954412113077497 40.412472050000005),Cortes,40.412472050000005,-3.6954412113077497
-3,Pilar Akaneya,Japonesa,Alto,276 opiniones,MICHELIN,"C. de Espronceda, 33, 28003 Madrid",POINT (-3.696109 40.4405573),Rios Rosas,40.4405573,-3.696109
-4,Gioia,Italiana,Medio,387 opiniones,MICHELIN,"C. de San Bartolomé, 23, 28004 Madrid",POINT (-3.6983792 40.4221651),Justicia,40.4221651,-3.6983792
-5,Noi Ristorante,Italiana,Medio,244 opiniones,MICHELIN,"C. de Recoletos, 6, 28001 Madrid",POINT (-3.6906004 40.4220139),Recoletos,40.4220139,-3.6906004
-6,Mudrá Plant Based Recoletos,Internacional,Medio,67 opiniones,MICHELIN,"C. de Recoletos, 13, 28001 Madrid",POINT (-3.6898244 40.4218211),Recoletos,40.4218211,-3.6898244
-7,La MaMá Restaurante,Mediterránea,Medio,225 opiniones,MICHELIN,"6 bis, Parque, Av. de Brasil, 28020 Madrid",POINT EMPTY,No encontrado,,
-8,Sisapo,Mediterránea,Medio,71 opiniones,MICHELIN,"C. de Trafalgar, 14, 28010 Madrid",POINT (-3.7004566 40.4318711),Trafalgar,40.4318711,-3.7004566
-9,RECREO Espartinas,Mediterránea,Medio,366 opiniones,MICHELIN,"C. de Espartinas, Nº 5, 28001 Madrid",POINT EMPTY,No encontrado,,
-10,Miyama,Japonesa,Alto,837 opiniones,MICHELIN,No disponible,POINT EMPTY,No encontrado,,
-11,Deessa,Mediterránea,Alto,52 opiniones,MICHELIN,"Pl. de la Lealtad, 5, 28014 Madrid",POINT (-3.692725530645917 40.41555015),Cortes,40.41555015,-3.692725530645917
-12,Hotaru Madrid,Japonesa,Alto,199 opiniones,MICHELIN,"C. de Alcalá, 99, 28009 Madrid",POINT (-3.6834669 40.421502),Jerónimos,40.421502,-3.6834669
-13,Yugo the Bunker,Japonesa,Alto,342 opiniones,MICHELIN,"Calle de San Blas, 4, 28014 Madrid",POINT (-3.6938335 40.410375),Embajadores,40.410375,-3.6938335
-14,Coque,Internacional,Alto,476 opiniones,MICHELIN,No disponible,POINT EMPTY,No encontrado,,
-15,El pedrusco de Aldealcorvo,Internacional,Medio,223 opinionesCierra en 6 minutos,MICHELIN,"C. de Juan de Austria, 27, 28010 Madrid",POINT (-3.7000495 40.4339433),Trafalgar,40.4339433,-3.7000495
-16,KABUKI WELLINGTON SL,Japonesa,Alto,974 opiniones,MICHELIN,"C. de Velázquez, 6, 28001 Madrid",POINT (-3.6841825 40.4217715),Jerónimos,40.4217715,-3.6841825
-17,Kabuki,Japonesa,Alto,725 opiniones,MICHELIN,No disponible,POINT EMPTY,No encontrado,,
-18,Restaurante Lakasa,Mediterránea,Medio,1161 opiniones,MICHELIN,"Pl. del Descubridor Diego de Ordás, 1, 28003 Madrid",POINT (-3.7007791 40.4408805),Rios Rosas,40.4408805,-3.7007791
-19,Bardero,Mediterránea,Medio,106 opiniones,Comida espectacular por 37€ por persona,"Palos de la Frontera, 11, 28012 Madrid",POINT (-3.694602 40.4039759),Palos de Moguer,40.4039759,-3.694602
-20,Pizzart Fuencarral,Italiana,Medio,940 opiniones,Excelente comida,"Calle de Fuencarral, 58, 28004 Madrid",POINT (-3.7005775 40.4240282),Universidad,40.4240282,-3.7005775
-21,Ornella Velázquez,Italiana,Medio,2317 opiniones,La parmigiana de la nonna y la atencion 10/10,"C. de Velázquez, 18, 28001 Madrid",POINT (-3.6841057 40.4233344),Recoletos,40.4233344,-3.6841057
-22,Lettera Trattoria moderna,Italiana,Medio,1564 opiniones,Muy recomendable,"C. de la Reina, 20, 28004 Madrid",POINT (-3.6981938 40.4197308),Cortes,40.4197308,-3.6981938
-23,Pizzart Villa Canalejas,Italiana,Medio,901 opiniones,Magnifico,"C. de Arlabán, 1, 28014 Madrid",POINT (-3.6995917 40.4170322),Cortes,40.4170322,-3.6995917
-24,Pummarola,Italiana,Medio,605 opiniones,8 km,"Av. de Europa, 17, 28224 Pozuelo de Alarcón, Madrid",POINT (-3.789951 40.4444685),No encontrado,40.4444685,-3.789951
-25,Brunchit Malasaña,Café,Medio,548 opiniones,Buen brunch,"C. del Noviciado, 12, 28015 Madrid",POINT EMPTY,No encontrado,,
-26,Ouh...Babbo!,Italiana,Medio,665 opiniones,Comida deliciosa a precio ajustado,"C. de los Caños del Peral, 2, 28013 Madrid",POINT EMPTY,No encontrado,,
-27,Restaurante Excalibur Madrid,Restaurante de carne,Medio,170 opiniones,Espectáculo,"C. de Martín de los Heros, 28, 28008 Madrid",POINT (-3.7146245 40.4257675),Casa de Campo,40.4257675,-3.7146245
-28,Rigatoni,Italiana,Medio,250 opiniones,15.5 km,"C. de Boadilla, 8, 28220 Majadahonda, Madrid",POINT (-3.852097 40.4723325),No encontrado,40.4723325,-3.852097
-29,Davanti Food & Market,Italiana,Medio,413 opiniones,"Buena comida, local muy agradable","C. de Augusto Figueroa, 41, 28004 Madrid",POINT (-3.6968794 40.4220975),Justicia,40.4220975,-3.6968794
-30,Entre Santos Madrid,Mediterránea,Medio,1346 opiniones,Buen ambiente. Coctelería estupenda,"C. de San Bartolomé, 4, 28004 Madrid",POINT (-3.6986687 40.4213536),Justicia,40.4213536,-3.6986687
-31,Trattoria Malatesta,Italiana,Medio,2138 opiniones,Auténtica pizza italiana,"Trattoria Malatesta, C. de los Coloreros, 5, 28013 Madrid",POINT (-3.707066 40.416551),Sol,40.416551,-3.707066
-32,Minelli 1960,Italiana,Medio,111 opiniones,Italiano imprescindible,"Cl. de Ayala, 140, 28006 Madrid",POINT (-3.6721896 40.4270602),Goya,40.4270602,-3.6721896
-33,Oven Mozzarella Gran Vía 6,Italiana,Medio,5337 opiniones,Genial,"C.Gran Vía, 6, 28013 Madrid",POINT (-3.6979191 40.4193615),Cortes,40.4193615,-3.6979191
-34,Lab '84,Italiana,Medio,75 opiniones,Muy Fan de este lugar.,No disponible,POINT EMPTY,No encontrado,,
-35,Sibuya Urban Sushi Bar Madrid C/Orense,Japonesa,Medio,871 opiniones,La comida y el servicio,"C. de Orense, 11, 28020 Madrid",POINT (-3.6947608 40.4551425),Cuatro Caminos,40.4551425,-3.6947608
-36,Gustazio Gastrobar,Italiana,Medio,237 opiniones,La mejor pizza que puedas comer (al menos en Madrid),"C. de Embajadores, 197, 28045 Madrid",POINT (-3.6910665 40.3883103),Legazpi,40.3883103,-3.6910665
-37,Smok Mok,Japonesa,Bajo,103 opiniones,Increíble!!!!,"Calle del Dr Cortezo, 10, 28012 Madrid",POINT (-3.703991681218869 40.41308265),Embajadores,40.41308265,-3.703991681218869
-38,Piccola Napoli,Italiana,Bajo,500 opiniones,Comida muy rica y a buen precio,No disponible,POINT EMPTY,No encontrado,,
-39,Da Luca,Italiana,Medio,451 opiniones,14.6 km,No disponible,POINT EMPTY,No encontrado,,
-40,Il Pizzaiolo,Italiana,Medio,929 opiniones,Gran descubrimiento,"C/ de Hortaleza, 84, 28004 Madrid",POINT (-3.6985395 40.4237578),Justicia,40.4237578,-3.6985395
-41,Pastamore,Italiana,Medio,1024 opiniones,Deliciosa la comida,"C. de Alcalá, 191, 28009 Madrid",POINT (-3.6699464 40.4276705),Goya,40.4276705,-3.6699464
-42,Oven Mozzarella,Italiana,Medio,712 opiniones,Excelente como siempre,No disponible,POINT EMPTY,No encontrado,,
-43,Gourmet Experience Gran Vía,Japonesa,Medio,1029 opiniones,Gran via,"Comercial El Corte Inglés, Pl. del Callao, 2, 9ª planta Centro, 28013 Madrid",POINT EMPTY,No encontrado,,
-44,Proverbium,Italiana,Medio,302 opiniones,15 km,"C. de los Mártires, 19, 28660 Boadilla del Monte, Madrid",POINT (-3.8772492 40.4082737),No encontrado,40.4082737,-3.8772492
-45,Dans Le Noir ?,Mediterránea,Alto,460 opiniones,Muy buena experiencia!,"Pl. del Biombo, 5, 28013 Madrid",POINT (-3.711420090625 40.4160083),Palacio,40.4160083,-3.711420090625
-46,Kamado Asian Food X-Madrid,Asiática,Medio,229 opiniones,15 km,"C. Oslo, 53, 28922 Alcorcón, Madrid",POINT (-3.8476277532704177 40.33970455),No encontrado,40.33970455,-3.8476277532704177
-47,PICCOLO DIAVOLO,Italiana,Medio,689 opiniones,Restaurante italiano Madrid,"C. de Fúcar, 11, 28014 Madrid",POINT (-3.6955698 40.4114617),Embajadores,40.4114617,-3.6955698
-48,Raza Madrid,Restaurante de carne,Alto,188 opiniones,Bien pero sorpresa,No disponible,POINT EMPTY,No encontrado,,
-49,Eatmytrip Brunch & Cocktails Madrid,Americana,Medio,203 opiniones,100% Recomendado,No disponible,POINT EMPTY,No encontrado,,
-50,Pizzeria Vesuvio -Hortaleza,Italiana,Bajo,796 opiniones,"Muy recomendable,personal amable","C/ de Hortaleza, 4, 28004 Madrid",POINT (-3.7006627 40.4205983),Sol,40.4205983,-3.7006627
-51,BLoved,Internacional,Medio,475 opiniones,Cuqui,"C.Gran Vía, 9, 28013 Madrid",POINT (-3.6990703 40.4194531),Sol,40.4194531,-3.6990703
-52,Trattoria Pulcinella,Italiana,Medio,2786 opiniones,Cena con amigos,"C. de Regueros, 7, 28004 Madrid",POINT (-3.6965193 40.4246294),Justicia,40.4246294,-3.6965193
-53,Oven Mozzarella Bar Fuencarral,Italiana,Medio,4135 opiniones,Cena exquisita,"Calle de Fuencarral, 74, 28004 Madrid",POINT (-3.7007733 40.4251706),Universidad,40.4251706,-3.7007733
-54,Pizzie & Dixie,Italiana,Medio,210 opiniones,Comida sin gluten y vegana,"C. de San Vicente Ferrer, 16, 28004 Madrid",POINT (-3.702929 40.4257159),Universidad,40.4257159,-3.702929
-55,Fiaschetteria La Saletta,Italiana,Bajo,298 opiniones,Perfecta opción de cocina italiana autentica,"C. de Sta. Isabel, 5, 2nd floor, 28012 Madrid",POINT EMPTY,No encontrado,,
-56,Ronda 14,Japonesa,Medio,983 opiniones,Excelente cena familiar,No disponible,POINT EMPTY,No encontrado,,
-57,Bombardino Café,Italiana,Medio,353 opiniones,Experiencia inolvodable,No disponible,POINT EMPTY,No encontrado,,
-58,Matilda,Café y té,Bajo,760 opiniones,"Buen trato, rica comida",No disponible,POINT EMPTY,No encontrado,,
-59,Oliveto,Italiana,Medio,380 opiniones,"Todo muy bueno, solo he echado de menos algún tipo de ensalada. Por lo demás acogedor, buen trato y muy familiar.","C. de Sta. Isabel, 45, 28012 Madrid",POINT (-3.6964775 40.4097721),Embajadores,40.4097721,-3.6964775
-60,Etnico Madrid,Bares y pubs,Medio,141 opiniones,Excelente cocteleriaBar,No disponible,POINT EMPTY,No encontrado,,
-61,La General Bistró & Café,Café y té,Medio,403 opiniones,BBB,"C. del Planeta, 3, 28042 Madrid",POINT (-3.7580724 40.2260137),No encontrado,40.2260137,-3.7580724
-62,Araldo Arte del Gusto,Italiana,Medio,211 opiniones,Restaurante italiano de calidad.materia prima de primera calidad.,"C. de los Madrazo, 5, 28014 Madrid",POINT (-3.698063488576339 40.4176169),Cortes,40.4176169,-3.698063488576339
-63,Ristorante Reginella,Italiana,Medio,681 opiniones,Masa aireada y sabrosa pizza,"Calle de Modesto Lafuente, 76, 28003 Madrid",POINT (-3.6960349 40.4414475),Rios Rosas,40.4414475,-3.6960349
-64,Eatmytrip Brunch & Dinner Madrid,Americana,Medio,62 opiniones,También tienen cenas los fines de semana y están genial!!,No disponible,POINT EMPTY,No encontrado,,
-65,Menomale,Italiana,Medio,204 opiniones,Maravilla,"C. de San Bernardo, 85, 28015 Madrid",POINT (-3.7063184 40.4284441),Universidad,40.4284441,-3.7063184
-66,Casa Crimi,Italiana,Medio,32 opiniones,"Espectacular, como siempre","P.º del Marqués de Zafra, 44, 28028 Madrid",POINT (-3.662861243934684 40.425141),Fuente del Berro,40.425141,-3.662861243934684
-67,Mamúa Café Bar. Specialty coffee,Café,Bajo,129 opiniones,FANTASTICO,"Pl. de Cascorro, 7, 28005 Madrid",POINT (-3.7071215 40.4102866),Embajadores,40.4102866,-3.7071215
-68,Pizzart Villa Luchana,Italiana,Medio,775 opiniones,Buena vibra ✨,"C. de Luchana, 17, 28010 Madrid",POINT (-3.7007008808428026 40.430298500000006),Trafalgar,40.430298500000006,-3.7007008808428026
-69,Dr Limon,Café,Medio,81 opiniones,Totalmente recomendable,No disponible,POINT EMPTY,No encontrado,,
-70,Filu e Ferru,Italiana,Medio,37 opiniones,Cocina sarda en Madrid,"C. de San Joaquín, 5, 28004 Madrid",POINT (-3.7014272 40.4245501),Universidad,40.4245501,-3.7014272
-71,Latasia,Peruana,Medio,480 opiniones,Buenísimo,"P.º de la Castellana, 115, 28046 Madrid",POINT (-3.6907533 40.4568559),Cuatro Caminos,40.4568559,-3.6907533
-72,Sibuya Urban Sushi Bar X-Madrid,Japonesa,Medio,337 opiniones,11.6 km,"C. Oslo, 53, 28922 Alcorcón, Madrid",POINT (-3.8476277532704177 40.33970455),No encontrado,40.33970455,-3.8476277532704177
-73,La Pizzateca,Italiana,Bajo,1150 opiniones,La mejor pizza de queso que he comido nunca.,"C. del León, 35, 28014 Madrid",POINT (-3.6992805 40.4127726),Embajadores,40.4127726,-3.6992805
-74,Sibuya Urban Sushi Bar Madrid C/ibiza,Japonesa,Medio,724 opiniones,Delicioso,"C. de Ibiza, 33, 28009 Madrid",POINT (-3.6743147 40.4183439),Ibiza,40.4183439,-3.6743147
-75,Inclán Brutal Bar,Bar,Medio,5570 opiniones,Un lugar diferente donde comer,"C. de Álvarez Gato, 4, 28012 Madrid",POINT (-3.7019298 40.4151014),Embajadores,40.4151014,-3.7019298
-76,CHILA,China,Medio,88 opiniones,Buen y original restaurante chino,No disponible,POINT EMPTY,No encontrado,,
-77,Angelita Madrid,Internacional,Medio,809 opiniones,centrico y muy buen vino y comida,"C. de la Reina, 4, 28004 Madrid",POINT (-3.7003595 40.4203614),Sol,40.4203614,-3.7003595
-78,Divino Tinto,Mediterránea,Medio,278 opiniones,Recomendado 100%,"C. del Hierro, 4B, 28045 Madrid",POINT (-3.6921024 40.3931748),Delicias,40.3931748,-3.6921024
-79,Pizzamascalzone,Italiana,Medio,157 opiniones,Experiencia única,"Calle de Cervantes, 1, 28014 Madrid",POINT (-3.6945481 40.414889),Cortes,40.414889,-3.6945481
-80,BAMMBAO,China,Medio,15 opiniones,Comida china innovadora muy top,"C. de Nicolás Sánchez, 54, 28026 Madrid",POINT (-3.7058932 40.3832768),Pradolongo,40.3832768,-3.7058932
-81,Éccolo,Italiana,Medio,133 opiniones,Gusto de sitio,No disponible,POINT EMPTY,No encontrado,,
-82,Maximo's,Japonesa,Medio,269 opiniones,Sushi de calidad,"Av. de Menéndez Pelayo, 53, 28009 Madrid",POINT (-3.6778512 40.4162707),Jerónimos,40.4162707,-3.6778512
-83,Taberna Más Al Sur,Mediterránea,Medio,6329 opiniones,Excelente!,"C. de Sta. Isabel, 35, 28012 Madrid",POINT (-3.6969556 40.4100214),Embajadores,40.4100214,-3.6969556
-84,Peppe Fusco The Italian,Italiana,Medio,606 opiniones,Comida exquisita. Relación calidad/precio sobresaliente.,"Calle de Fuencarral, 139, 28010 Madrid",POINT (-3.7041275 40.4333131),Arapiles,40.4333131,-3.7041275
-85,Metro Bistró - Plaza Mayor,Mediterránea,Medio,1882 opiniones,Precio Calidad a Tope,"C. Imperial, 3, 28012 Madrid",POINT (-3.7067441768480895 40.414546650000005),Palacio,40.414546650000005,-3.7067441768480895
-86,Cromia,Americana,Medio,20 opiniones,Parrillada vzlana deliciosa!,"Av. de Castilla-La Mancha, 113, LOCAL, 28701 San Sebastián de los Reyes, Madrid",POINT EMPTY,No encontrado,,
-87,Waraku,Japonesa,Medio,76 opiniones,Top Japonés,"C. de Benito Gutiérrez, 4, 28008 Madrid",POINT (-3.7180002 40.4322225),Argüelles,40.4322225,-3.7180002
-88,Mitiko,China,Alto,96 opiniones,Delicioso,"C. de Sor Ángela de la Cruz, 22, 28020 Madrid",POINT (-3.6954038 40.4598584),Castillejos,40.4598584,-3.6954038
-89,A vÁnvera,Italiana,Medio,444 opiniones,Trato excepcional y comida de 10,"Calle de Zurbano, 85, 28003 Madrid",POINT (-3.6928346 40.4397914),Rios Rosas,40.4397914,-3.6928346
-90,Enklima,Mediterránea,Medio,231 opiniones,Absolutamente perfecto,No disponible,POINT EMPTY,No encontrado,,
-91,Kaiten Sushi Madrid,Japonesa,Medio,270 opiniones,Muy buena experiencia y variedad,"C. de San Bernardo, 10, 28015 Madrid",POINT (-3.7076973 40.4219842),Palacio,40.4219842,-3.7076973
-92,Gramabar,Americana,Medio,1656 opiniones,Riquisimoooo,No disponible,POINT EMPTY,No encontrado,,
-93,BIZZO! Moncloa,Italiana,Bajo,169 opiniones,¡¡¡DE LOS MEJORES !!!,"C. de Andrés Mellado, 77, 28003 Madrid",POINT (-3.7141628 40.4395224),Gaztambide,40.4395224,-3.7141628
-94,Sibuya Urban Sushi Bar Chueca,Japonesa,Medio,1014 opiniones,Excelente calidad/precio,"C. de Santo Tomé, 5, 28004 Madrid",POINT (-3.6950547 40.4236412),Justicia,40.4236412,-3.6950547
-95,Tacoctelería,Bares y pubs,Medio,114 opiniones,Fantástico!,"C. de Valverde, 7, 28004 Madrid",POINT (-3.7022014 40.420994),Sol,40.420994,-3.7022014
-96,Malafemmena,Italiana,Medio,1512 opiniones,Italiano con toques diferentes,"C. del Dr. Esquerdo, 13, 28028 Madrid",POINT (-3.668196522884696 40.42642025000001),Goya,40.42642025000001,-3.668196522884696
-97,Mamma Maria,Italiana,Medio,439 opinionesCierra en 6 minutos,11 km,"C. Palomares, 1, 28911 Leganés, Madrid",POINT (-3.7648207 40.3293631),No encontrado,40.3293631,-3.7648207
-98,La Burbujería,Mediterránea,Medio,144 opiniones,"Qué rico todo, qué amables","C. del Barco, 7, 28004 Madrid",POINT (-3.7028788 40.4213047),Sol,40.4213047,-3.7028788
-99,El 11 Resto-Brunch,Francesa,Medio,47 opiniones,Recomendable,No disponible,POINT EMPTY,No encontrado,,
-100,Grosso Napoletano Senza Glutine,Italiana,Medio,66 opiniones,Gran opción para celiacos,No disponible,POINT EMPTY,No encontrado,,
-101,izakaya Han,Japonesa,Medio,469 opiniones,Siuuuuuuu,"C. de San Bartolomé, 10, 28004 Madrid",POINT (-3.6984647 40.4218369),Justicia,40.4218369,-3.6984647
-102,Sandy Barracane,Italiana,Medio,78 opiniones,Sin palabras.,No disponible,POINT EMPTY,No encontrado,,
-103,Mamma Maria,Italiana,Medio,439 opiniones,11 km,"C. Palomares, 1, 28911 Leganés, Madrid",POINT (-3.7648207 40.3293631),No encontrado,40.3293631,-3.7648207
-104,Cafeteria Neila,Bar,Bajo,133 opiniones,ideal para la cervecita y el pincho,"Calle de Sta. María, 41, 28014 Madrid",POINT (-3.6958247 40.41265),Cortes,40.41265,-3.6958247
-105,Taberna de Peñalver,Marisco,Medio,1123 opiniones,Gran servicio y comida,"C. del Conde de Peñalver, 90, 28006 Madrid",POINT (-3.6747828 40.4337774),Lista,40.4337774,-3.6747828
-106,Santita Virgen de los Peligros,Mexicana,Medio,1086 opiniones,Fantástico postre,"C. de la Virgen de los Peligros, 10, 28013 Madrid",POINT (-3.6995762 40.418907),Sol,40.418907,-3.6995762
-107,La Piramide,Internacional,Medio,230 opiniones,Fantástica celebración familiar,No disponible,POINT EMPTY,No encontrado,,
-108,La Piccola Trattoria,Italiana,Medio,332 opiniones,Insuperable,"C. de la Torrecilla del Leal, 15, 28012 Madrid",POINT (-3.6994005 40.4105895),Embajadores,40.4105895,-3.6994005
-109,Lamiak,Bar,Bajo,313 opiniones,"Genial, rico, barato y buen ambiente",No disponible,POINT EMPTY,No encontrado,,
-110,Emma y Julia,Italiana,Medio,543 opiniones,Buen italiano en plena Cava Baja,"C. de la Cava Baja, 19, 28005 Madrid",POINT (-3.7089636 40.4125001),Palacio,40.4125001,-3.7089636
-111,Pizzeria Fratelli,Italiana,Medio,466 opiniones,Muy buena experiencia,No disponible,POINT EMPTY,No encontrado,,
-112,Casa Lucas,Mediterránea,Medio,1381 opiniones,"Excelente, un clásico",No disponible,POINT EMPTY,No encontrado,,
-113,MACAO Príncipe,Japonesa,Medio,376 opiniones,Platos diferentes.,"C. del Príncipe, 16, 28012 Madrid",POINT (-3.7003953 40.4154674),Cortes,40.4154674,-3.7003953
-114,Vinos de Bellota,Mediterránea,Medio,884 opiniones,Siempre es un acierto,"C. de Antonio Acuña, 27, 28009 Madrid",POINT (-3.678872020735685 40.42075165),Jerónimos,40.42075165,-3.678872020735685
-115,Maruzzella,Italiana,Medio,1022 opiniones,Comida 100% italiana,"C. de Raimundo Fernández Villaverde, 28, 28003 Madrid",POINT (-3.6995503594813393 40.44604875),Rios Rosas,40.44604875,-3.6995503594813393
-116,Cervecería El Caño,Bar,Bajo,269 opiniones,Cada vez que vengo a Madrid repito,"C. de Cobos de Segovia, 30, 28005 Madrid",POINT (-3.7191486 40.4060379),Imperial,40.4060379,-3.7191486
-117,Acqua In Bocca Trattoria,Italiana,Medio,90 opiniones,Italiano increíble. Excelente elección,"C. de Arias Montano, 30, 28007 Madrid",POINT (-3.6705178 40.4097349),Niño Jesús,40.4097349,-3.6705178
-118,Sto Globo Sushi Room,Japonesa,Medio,346 opinionesCierra en 2 minutos,Siguen siendo los mejores,"Calle de Sta. Teresa, 8, 28004 Madrid",POINT (-3.6959139 40.4257801),Justicia,40.4257801,-3.6959139
-119,Sazón-arte,Mediterránea,Medio,313 opiniones,Estupenda cena de tapeo,"C. de Menorca, 19, local izquierdo bajo g, 28009 Madrid",POINT EMPTY,No encontrado,,
-120,Sr. Ito,Japonesa,Medio,975 opiniones,Sabor y atención excelente,No disponible,POINT EMPTY,No encontrado,,
-121,Rioko Nikkei Sushi Bar,Japonesa,Medio,67 opiniones,Un restaurante especial y acogedor,"Carrer de Ciscar, 49, bajo, 46005 Valencia",POINT EMPTY,No encontrado,,
-122,Cruda Restaurante,Mexicana,Medio,533 opiniones,Estupendo,No disponible,POINT EMPTY,No encontrado,,
-123,Trattoria Pizzeria A'Fenestella,Italiana,Medio,265 opiniones,Se solucionó el malentendido,"C. de Torquemada, 25, 28043 Madrid",POINT (-3.6384778 40.4684417),Canillas,40.4684417,-3.6384778
-124,Restaurante Gaudium Chamberí,Mediterránea,Medio,175 opiniones,Original y clásico,"C. de Sta. Feliciana, 14, 28010 Madrid",POINT (-3.6990576 40.4331934),Trafalgar,40.4331934,-3.6990576
-125,Isabella Restaurante,Italiana,Medio,51 opiniones,Muy agradable a la vista y paladar,"C. de Puigcerda, 4, 28001 Madrid",POINT (-3.6863008 40.4238727),Recoletos,40.4238727,-3.6863008
-126,I Malavoglia,Italiana,Medio,52 opiniones,Sitio tranquilo. Buenas pizzas,No disponible,POINT EMPTY,No encontrado,,
-127,Guasa Madrid,Fusión,Medio,75 opiniones,Fenomenal,No disponible,POINT EMPTY,No encontrado,,
-128,Lamonarracha-Chamberí,Japonesa,Medio,91 opiniones,Un japonés diferente con platos realmente buenos y un trato espectacular,"C. de Alonso Cano, 53, 28003 Madrid",POINT (-3.6974228 40.4428631),Rios Rosas,40.4428631,-3.6974228
-129,Oven mozzarella Bar Las Tablas,Italiana,Medio,1361 opiniones,Comida deliciosa y excelente servicio,"Esquina con, Calle San Juan de Ortega, C. de Hontanás, 36, 28050 Madrid",POINT EMPTY,No encontrado,,
-130,Cafe Grill La Luna,Italiana,Medio,94 opiniones,15.1 km,"C. de Pablo Picasso, 13, 28100 Alcobendas, Madrid",POINT (-3.6377026 40.5425173),No encontrado,40.5425173,-3.6377026
-131,Yakiniku Rikyu,Japonesa,Medio,267 opinionesCierra en 2 minutos,Para repetir sin duda,"P.º de la Castellana, 15, 28046 Madrid",POINT (-3.690173 40.4280979),Almagro,40.4280979,-3.690173
-132,Empanadas Malvón,Latina,Medio,86 opiniones,Empanadas de 10,No disponible,POINT EMPTY,No encontrado,,
-133,Pante Cucina Siciliana,Italiana,Medio,194 opiniones,Delicioso,"C. de Villanueva, 21, 28001 Madrid",POINT (-3.6849051 40.4224831),Recoletos,40.4224831,-3.6849051
-134,La Gaditana Castellana,Internacional,Medio,1971 opiniones,Con ganas de volver!,"P.º de la Castellana, 56, 28046 Madrid",POINT (-3.6897359 40.4656834),Castillejos,40.4656834,-3.6897359
-135,Hddn Premium Mixology & Cuisine,Bares y pubs,Alto,47 opiniones,lugar especialmente bonito,"Pl. de Prta Cerrada, 7, 28005 Madrid",POINT EMPTY,No encontrado,,
-136,Teta & Sopa,Japonesa,Medio,19 opiniones,Comida sorprendente,No disponible,POINT EMPTY,No encontrado,,
-137,RESTAURANTE DOLCE VITA COSLADA,Mediterránea,Medio,420 opiniones,13.6 km,"C. de Venezuela, 1, 28823 Coslada, Madrid",POINT EMPTY,No encontrado,,
-138,Restaurante Morgana,Mediterránea,Medio,978 opiniones,Buena cena de gastronomía gallega,"C. de la Libertad, 5, 28004 Madrid",POINT (-3.6974459 40.4204587),Cortes,40.4204587,-3.6974459
-139,Macuto / Auténtico Latino,Mexicana,Medio,41 opiniones,Recomendable,"C. del Espíritu Santo, 40, 28004 Madrid",POINT (-3.7051152 40.4256072),Universidad,40.4256072,-3.7051152
-140,La Rollerie- Calle Mayor,Americana,Medio,766 opiniones,Desayuno rico,No disponible,POINT EMPTY,No encontrado,,
-141,Oven Mozzarella Gran Vía 55,Italiana,Medio,2264 opiniones,Comida en familia,"C.Gran Vía, 55, 28013 Madrid",POINT (-3.7084213 40.4216379),Palacio,40.4216379,-3.7084213
-142,Amordmadre,Mediterránea,Medio,428 opiniones,RECOMENDADO 100%,"C. de la Sierra de Palomeras, 40, 28031 Madrid",POINT (-3.6256439 40.3750349),Casco Histórico de Vallecas,40.3750349,-3.6256439
-143,Campesino Burger Al Carbón,Americana,Bajo,239 opiniones,Buena materia prima a un precio razonable,"C. de Atocha, 111, 28012 Madrid",POINT (-3.6948924 40.4104634),Embajadores,40.4104634,-3.6948924
-144,Camino Sacramento,Restaurante de carne,Medio,430 opiniones,Gran lugar para comer bien,"de El Corte Inglés de Callao zona Gourmet Experience, Pl. del Callao, 2, 9ª planta, 28013 Madrid",POINT EMPTY,No encontrado,,
-145,Restaurante Ático,Mediterránea,Alto,1123 opiniones,Inmejorable,"C. del Marqués de Valdeiglesias, 1, 28004 Madrid",POINT (-3.6971316 40.4193652),Cortes,40.4193652,-3.6971316
-146,GastroVía 61,Mediterránea,Medio,2039 opiniones,Genial,"Hotel Mayorazgo, C. de la Flor Baja, 3, 28013 Madrid",POINT EMPTY,No encontrado,,
-147,Massa Pizza,Italiana,Medio,452 opiniones,"Buena pizza, buena atención 👌🏼","C. de Fernández de los Ríos, 47, 28015 Madrid",POINT (-3.7108818 40.4351596),Gaztambide,40.4351596,-3.7108818
-148,Yatai Market,Tentempiés,Medio,335 opiniones,Mercado con espíritu oriental,"Calle del Dr Cortezo, 10, 28012 Madrid",POINT (-3.703991681218869 40.41308265),Embajadores,40.41308265,-3.703991681218869
-149,La Piperna,Italiana,Medio,478 opiniones,Excelente comida y amplia carta de vinos,"C. de la Infanta Mercedes, 98, 28020 Madrid",POINT (-3.6928837 40.4638524),Castillejos,40.4638524,-3.6928837
-150,MICASITA BUVETTE,Mediterránea,Medio,115 opiniones,Tercio frío,"C. de Gutenberg, 6, 28014 Madrid",POINT (-3.681200689936439 40.40501875),Pacífico,40.40501875,-3.681200689936439
-151,Trattoria La Tavernetta,Italiana,Medio,326 opiniones,Excelente,"C. de Orellana, 17, 28004 Madrid",POINT (-3.6941121 40.4261186),Justicia,40.4261186,-3.6941121
-152,Burmet,Mexicana,Medio,89 opiniones,No quebró,No disponible,POINT EMPTY,No encontrado,,
-153,Poké Friendly,Japonesa,Medio,53 opiniones,Muy rico y muy contentos!,No disponible,POINT EMPTY,No encontrado,,
-154,Nacho Bravo,Mexicana,Bajo,157 opiniones,Rico rico,"Paseo de las Delicias, 139, 28045 Madrid",POINT (-3.69463904509838 40.3920567),Chopera,40.3920567,-3.69463904509838
-155,Restaurante La Gaditana,Mediterránea,Medio,2384 opiniones,Buen bar cerca del wizink,No disponible,POINT EMPTY,No encontrado,,
-156,Queen Burger Gourmet,Italiana,Medio,289 opiniones,Hamburguesas muy buenas,No disponible,POINT EMPTY,No encontrado,,
-157,Santita Fuencarral,Mexicana,Medio,1072 opiniones,Comida sabrosa y cócteles de rechupete,No disponible,POINT EMPTY,No encontrado,,
-158,Yakitoro Castellana,Japonesa,Medio,2262 opiniones,Mejor de lo esperado,"P.º de la Castellana, 130, 28046 Madrid",POINT (-3.6901909 40.4501985),Cuatro Caminos,40.4501985,-3.6901909
-159,La Capricciosa Italiana,Italiana,Bajo,122 opiniones,Muy rico todo,"C. de las Maldonadas, 4, 28005 Madrid",POINT (-3.707641545906433 40.4110151),Embajadores,40.4110151,-3.707641545906433
-160,Restaurante Luxury,China,Medio,546 opiniones,pato trufa .nigri.uramakir,"Calle de Sandoval, 18, 28010 Madrid",POINT (-3.704908 40.4302666),Universidad,40.4302666,-3.704908
-161,Lafayette,Francesa,Medio,200 opiniones,Buena opción,No disponible,POINT EMPTY,No encontrado,,
-162,La Tabarra Madrid,Bar,Medio,71 opiniones,Camarero muy atento i eficiente.,"C. de Guzmán el Bueno, 50, 28015 Madrid",POINT (-3.7129806 40.4358894),Gaztambide,40.4358894,-3.7129806
-163,Bar Selva,Mediterránea,Bajo,175 opiniones,Buen sitio para ir de menú,No disponible,POINT EMPTY,No encontrado,,
-164,Impasta,Italiana,Medio,66 opiniones,Varios días en Madrid,No disponible,POINT EMPTY,No encontrado,,
-165,Viva Chapata,Bar,Medio,184 opiniones,Comida vegana en Lavapies,"C. del Ave María, 43, 28012 Madrid",POINT (-3.7009105 40.4094543),Embajadores,40.4094543,-3.7009105
-166,El Cocodrilo,Bar,Medio,226 opiniones,Buen sitio para ir con amigos. Buena carne,No disponible,POINT EMPTY,No encontrado,,
-167,Passaparola L´Originale,Italiana,Medio,300 opiniones,Italiano DELICIOSO!!,"C. de Guareña, 10, 28044 Madrid",POINT (-3.7660957 40.3878815),Aguilas,40.3878815,-3.7660957
-168,L' Incanto Gastrobar,Italiana,Medio,25 opiniones,"No hay palabras a la lengua, para describir lo rico que esta","C. de Eraso, 14, 28028 Madrid",POINT (-3.6710249 40.4340666),Guindalera,40.4340666,-3.6710249
-169,Pasta Mito,Italiana,Medio,221 opiniones,Comida italiana,"C. de Bolivia, 9, 28016 Madrid",POINT (-3.6784512 40.4575854),Hispanoamérica,40.4575854,-3.6784512
-170,Taberna el Sur,Bar,Medio,8580 opiniones,Excelente calidad,No disponible,POINT EMPTY,No encontrado,,
-171,Propaganda,Italiana,Medio,135 opiniones,Italiano acogedor,No disponible,POINT EMPTY,No encontrado,,
-172,Pituca Lounge,Bares y pubs,Medio,185 opiniones,Recomendado 100%,"P.º del Pintor Rosales, 24, 28008 Madrid",POINT (-3.7190804 40.4265242),Casa de Campo,40.4265242,-3.7190804
-173,Divina Dolores,Internacional,Medio,63 opiniones,Excelente restaurante,"Av. del Monasterio de El Escorial, 10, 12, 28949 Madrid",POINT EMPTY,No encontrado,,
-174,Puccias | Sandwichería Delicatessen,Comida rápida,Medio,72 opiniones,100% recomendable,"C. de la Libertad, 9, 28004 Madrid",POINT (-3.6974311 40.4207109),Justicia,40.4207109,-3.6974311
-175,Lamucca de Prado,Italiana,Medio,1958 opiniones,Sorprendente,"C. del Prado, 16, 28014 Madrid",POINT (-3.698712851549911 40.4146932),Cortes,40.4146932,-3.698712851549911
-176,El Rincon del Cabo,Bar,Medio,394 opiniones,Chulo,"C. de Lavapiés, 8, 28012 Madrid",POINT (-3.7030479 40.4116527),Embajadores,40.4116527,-3.7030479
-177,Sublime Dreams Food,Americana,Medio,243 opiniones,MUY BIEN,"C. Oslo, 53, 28922 Alcorcón, Madrid",POINT (-3.8476277532704177 40.33970455),No encontrado,40.33970455,-3.8476277532704177
-178,WelkhomeClub,Latina,Bajo,168 opiniones,Welcome Club lugar para pasarla increíble,"Calle del Monte Esquinza, 15, 28010 Madrid",POINT EMPTY,No encontrado,,
-179,niMÚ Barquillo,Mediterránea,Medio,870 opiniones,"Comida muy rica, ambiente clásico",No disponible,POINT EMPTY,No encontrado,,
-180,Mesón Molinero,Restaurante de carne,Medio,376 opiniones,Grandioso,"C. de la Alhambra, 72, 28047 Madrid",POINT (-3.7441719 40.3972995),Lucero,40.3972995,-3.7441719
-181,Bahía Taberna,Internacional,Medio,1478 opiniones,"comida buena, servicio tb pero algo caro",No disponible,POINT EMPTY,No encontrado,,
-182,Lazzarella,Italiana,Medio,60 opiniones,"Es posible volver,",No disponible,POINT EMPTY,No encontrado,,
-183,López & López Pizzería,Italiana,Bajo,167 opiniones,Pizzas originales y riquísimas,No disponible,POINT EMPTY,No encontrado,,
-184,Steakburger Gran Vía 55,Americana,Medio,1512 opiniones,"buena comida y una gran atención por parte de Ricki el camarero, subirle el sueldo por favor","C.Gran Vía, 55, 28013 Madrid",POINT (-3.7084213 40.4216379),Palacio,40.4216379,-3.7084213
-185,Tempus Restaurante,Peruana,Medio,33 opiniones,Repetiría una y mil veces,No disponible,POINT EMPTY,No encontrado,,
-186,Gato Gato,Mediterránea,Medio,134 opiniones,Fantástico descubrimiento,"C. del Marqués de Toca, 6, 28012 Madrid",POINT (-3.6962005 40.410177),Embajadores,40.410177,-3.6962005
-187,Naomi,Japonesa,Medio,763 opiniones,Muy bueno,"C. de Ávila, 14, 28020 Madrid",POINT (-3.7005787678098674 40.45256265),Cuatro Caminos,40.45256265,-3.7005787678098674
-188,Restaurante La Malontina,Internacional,Medio,2196 opiniones,Pequeño local con muy buen producto,"C. de la Verónica, 4, 28014 Madrid",POINT (-3.6954293222344576 40.41175675),Embajadores,40.41175675,-3.6954293222344576
-189,Restaurante Étimo by Begoña Fraire,Mediterránea,Alto,887 opiniones,Un maravilloso restaurante,No disponible,POINT EMPTY,No encontrado,,
-190,Caro Club,Bares y pubs,Alto,37 opiniones,Buen servicio y diversión,No disponible,POINT EMPTY,No encontrado,,
-191,Sushi Tokami,China,Medio,66 opiniones,Buen buffet asiático,"Calle de Modesto Lafuente, 88, 28003 Madrid",POINT (-3.6955555 40.4458894),Rios Rosas,40.4458894,-3.6955555
-192,Quispe Madrid,Peruana,Medio,340 opiniones,Buenísimo servicio de parte de José Luis,"C. del Conde de Aranda, 4, 28001 Madrid",POINT (-3.6879591 40.4217288),Recoletos,40.4217288,-3.6879591
-193,NAP Lavapies,Italiana,Medio,454 opiniones,Pizza,"C. del Ave María, 19, 28012 Madrid",POINT (-3.7004684 40.4109231),Embajadores,40.4109231,-3.7004684
-194,Mercado de San Ildefonso,Tentempiés,Medio,1253 opiniones,Sábado de Tapas,"Calle de Fuencarral, 57, 28004 Madrid",POINT (-3.700857418597951 40.42415565),Universidad,40.42415565,-3.700857418597951
-195,Bresca,Italiana,Bajo,790 opiniones,Correcto!!,No disponible,POINT EMPTY,No encontrado,,
-196,Trattoria da Alfredo,Italiana,Medio,115 opinionesCierra en 11 minutos,De los sitios que recomiendas a amigos con buen paladar,"C. de El Españoleto, 4, 28010 Madrid",POINT EMPTY,No encontrado,,
-197,Piccolina,Italiana,Medio,79 opinionesCierra en 11 minutos,16 km,No disponible,POINT EMPTY,No encontrado,,
-198,Los Grifos,Pub con cerveza artesanal,Medio,229 opiniones,Lúpulo Madrid,No disponible,POINT EMPTY,No encontrado,,
-199,El Horno Azul,Tentempiés,Bajo,117 opiniones,"Bueno, bonito, barato. Pizza hecha al momento, riquísima.","C. de Leganitos, 14, 28013 Madrid",POINT (-3.7100146 40.4216345),Palacio,40.4216345,-3.7100146
-200,The Spanish Farm,Española€€ - €€€,Medio,507 opiniones,Extraordinario,"C. de Espalter, 5, 28014 Madrid",POINT EMPTY,No encontrado,,
-201,Dolores y Lola,Mediterránea,Medio,268 opiniones,Excelente restaurante en Malasaña,"Calle de Monteleón, 17, 28004 Madrid",POINT (-3.7048621 40.4290217),Universidad,40.4290217,-3.7048621
-202,Trattoria Popolare Fratelli Figurato,Italiana,Medio,149 opiniones,La mejor pizza que he comido en Madrid.,"Calle de Larra, 13, 28004 Madrid",POINT (-3.7000906 40.4274131),Universidad,40.4274131,-3.7000906
-203,Aboca Restobar,Italiana,Bajo,87 opiniones,Es mi primera vez en Madrid,"C. de Tampico, 34, 28027 Madrid",POINT (-3.6322141 40.4397477),Simancas,40.4397477,-3.6322141
-204,Brew Wild Pizza Bar,Bares y pubs,Medio,382 opiniones,#From🇨🇷W/love🖤,"Calle de Echegaray, 23, 28014 Madrid",POINT (-3.6995268 40.4147419),Cortes,40.4147419,-3.6995268
-205,Palki Indian Restaurant,India€€ - €€€Carta,Medio,33 opiniones,Opípara comida hindú de calidad,"C. de Ferraz, 54, 28008 Madrid",POINT (-3.7186385 40.4276743),Casa de Campo,40.4276743,-3.7186385
-206,Ponja Nikkei,Japonesa,Alto,91 opinionesCierra en 11 minutos,Mejor japonés que he probado.,"Calle del Almirante, 20, 28004 Madrid",POINT (-3.6934129 40.4224372),Justicia,40.4224372,-3.6934129
-207,El miniBAR,Bares y pubs,Bajo,2560 opiniones,Un sitio estupendo.,"C/ del Mesón de Paños, 1, 28013 Madrid",POINT (-3.7091977 40.4162893),Palacio,40.4162893,-3.7091977
-208,Murillo Café - Restaurante,Mediterránea,Medio,1000 opiniones,Muy bien!,"C. de Ruiz de Alarcón, 27, 28014 Madrid",POINT (-3.6913164 40.413041),Jerónimos,40.413041,-3.6913164
-209,Mano De Santa,Internacional,Alto,178 opiniones,Excelente,"Calle del General Díaz Porlier, 95, 28006 Madrid",POINT (-3.6765661 40.4340894),Lista,40.4340894,-3.6765661
-210,La Taberna de Mister Pinkleton,Bar,Medio,886 opiniones,Encantada,"Pl. de San Miguel, s/n, 28005 Madrid",POINT EMPTY,No encontrado,,
-211,Il Boccone,Italiana,Medio,179 opinionesCierra en 11 minutos,"Buen trato, buena comida","C. de Juan de Mariana, 4, 28045 Madrid",POINT (-3.6869451 40.3989517),Delicias,40.3989517,-3.6869451
-212,Grosso Napoletano,Italiana,Medio,383 opiniones,Buena pizza,No disponible,POINT EMPTY,No encontrado,,
-213,Dog & Fox Urban Kitchen,Mexicana,Medio,42 opinionesCierra en 11 minutos,Comida auténtica americana en pleno barrio de Argüelles,No disponible,POINT EMPTY,No encontrado,,
-214,La Taberna De Moncloa,Bar,Bajo,356 opiniones,Buen sitio,"C. de Andrés Mellado, 45, 28015 Madrid",POINT (-3.7144425 40.4351912),Gaztambide,40.4351912,-3.7144425
-215,La Sifonería,Mediterránea,Medio,473 opiniones,Muy recomendable! Carpaccio de pez mantequilla,"C. de Martín de los Heros, 27, 28008 Madrid",POINT (-3.7147338 40.4256682),Casa de Campo,40.4256682,-3.7147338
-216,O`pulpo,Marisco,Medio,353 opiniones,Muy recomendable,"Calle de los Cañizares, 8, 28012 Madrid",POINT (-3.7018683059565936 40.41281225),Embajadores,40.41281225,-3.7018683059565936
-217,Gandarío,Comida rápida,Bajo,573 opiniones,Consumición + tapa rica,No disponible,POINT EMPTY,No encontrado,,
-218,Celicioso by Only YOU Hotels,Café y té,Medio,499 opiniones,Desayuno libre de gluten,"C. del Barquillo, 19, 28004 Madrid",POINT (-3.6956952 40.4220636),Justicia,40.4220636,-3.6956952
-219,Restaurante El Abuelito,Restaurante de carne,Medio,88 opiniones,9.9 km,No disponible,POINT EMPTY,No encontrado,,
-220,Totò E Peppino,Italiana,Medio,315 opinionesCierra en 8 minutos,Buena atención y comida rica,No disponible,POINT EMPTY,No encontrado,,
-221,Los Porfiados,Mediterránea,Medio,503 opiniones,Muy recomendable,"C. de Buenavista, 18, 28012 Madrid",POINT (-3.6989646 40.4101148),Embajadores,40.4101148,-3.6989646
-222,Jauja Café,Mediterránea,Medio,127 opiniones,Restaurante discreto con platos ricos a buen precio.,"C. de la Encomienda, 22, 28012 Madrid",POINT (-3.7062889 40.410586),Embajadores,40.410586,-3.7062889
-223,Tsukuri Soba,China,Medio,37 opiniones,Gyozas espectaculares,"C. de Andrés Mellado, 5, 28015 Madrid",POINT (-3.7146995 40.4310638),Argüelles,40.4310638,-3.7146995
-224,Manzoni Trattoria,Italiana,Medio,175 opiniones,"La Trattoria Manzoni, uno de los italianos imprescindibles en Madrid, cambia de ubicación…","C. de Rosario Pino, 6, 28020 Madrid",POINT (-3.6911748 40.4621959),Castillejos,40.4621959,-3.6911748
-225,Asador Nuevo Porche,Restaurante de carne,Medio,331 opiniones,El mejor cochinillo,"C. Alaró, 5, 28042 Madrid",POINT (-3.5825308 40.4713093),Timón,40.4713093,-3.5825308
-226,Il Cratere del Gusto,Italiana,Medio,185 opiniones,Pequeñito pero coqueto,"C. del Marqués de Urquijo, 27, 28008 Madrid",POINT (-3.7191152 40.4295758),Argüelles,40.4295758,-3.7191152
-227,Restaurante Justo a tu Gusto,Brasileña,Medio,211 opiniones,14.6 km,"Av. de la Ermita, 2, 28100 Alcobendas, Madrid",POINT (-3.6369201 40.5355406),No encontrado,40.5355406,-3.6369201
-228,Asian Army,Asiática,Medio,53 opiniones,Delicioso,"Calle de Santa Isabel, 5 Dentro Mercado Anton Martin Planta Baja, puesto 7-11, 28012 Madrid",POINT EMPTY,No encontrado,,
-229,Almalibre Açaí House Madrid,Café,Medio,151 opiniones,Brunch increíble,"C. de la Libertad, 17, 28004 Madrid",POINT (-3.6974103 40.4211249),Justicia,40.4211249,-3.6974103
-230,Sr. Ito Lab,Japonesa,Medio,231 opiniones,Totalmente recomendable. Excelente en todos los sentidos,"C. de Trafalgar, 7, local 2, 28010 Madrid",POINT EMPTY,No encontrado,,
-231,Mafrens Healthy Food,Café y té,Medio,49 opiniones,Muy recomendable,"Pl. de Cascorro, 12, 28005 Madrid",POINT (-3.7074617 40.4099472),Embajadores,40.4099472,-3.7074617
-232,Cervecería La Mayor,Bar,Medio,438 opiniones,Gran variedad de cervezas,"C. Mayor, 77, 28013 Madrid",POINT (-3.712047951670306 40.415035450000005),Palacio,40.415035450000005,-3.712047951670306
-233,Trinakria,Italiana,Bajo,24 opiniones,La migliore pizzeria di Madrid ❤️,"C. de López de Hoyos, 182, 28002 Madrid",POINT (-3.668826 40.4476193),Prosperidad,40.4476193,-3.668826
-234,Queen Burger las Tablas,Americana,Medio,169 opiniones,Sugerencia sobre Smash Burguers,"C. de Castiello de Jaca, 14, 28050 Madrid",POINT (-3.6783414 40.5093876),Valverde,40.5093876,-3.6783414
-235,Don Giovanni,Italiana,Medio,1005 opinionesCierra en 8 minutos,Delicioso,"Paseo de la R. Cristina, 23, posterior, 28014 Madrid",POINT EMPTY,No encontrado,,
-236,Osteria Bravissimo,Francesa,Alto,61 opiniones,Una agradable sorpresa.,"P.º del Pintor Rosales, 52, 28008 Madrid",POINT (-3.721906 40.4294078),Casa de Campo,40.4294078,-3.721906
-237,La Pulpería De Victoria,Marisco,Medio,1314 opiniones,Cerca de sol. Recomendable,"Junto a, Calle de La Victoria, Prta del Sol, 2, 28012 Madrid",POINT EMPTY,No encontrado,,
-238,DokiDOki,Japonesa,Medio,908 opinionesCierra en 8 minutos,Muy recomendable,"C/ de Villalar, 4, 28001 Madrid",POINT (-3.6898191 40.4210879),Recoletos,40.4210879,-3.6898191
-239,Alcaravea,Mediterránea,Medio,523 opiniones,Cena con amigos,No disponible,POINT EMPTY,No encontrado,,
-240,Lamucca de Almagro,Internacional,Medio,953 opiniones,Para disfrutar con amigos,"C. de Almagro, 3, 28010 Madrid",POINT (-3.6952621 40.4283158),Justicia,40.4283158,-3.6952621
-241,Matador,Bar,Bajo,231 opiniones,Sabor de Marruecos en València,No disponible,POINT EMPTY,No encontrado,,
-242,La Bajada Street Food,Peruana,Medio,408 opiniones,Atención estupenda,No disponible,POINT EMPTY,No encontrado,,
-243,Pomodoro e Basilico,Italiana,Medio,21 opiniones,Cena improvisada,"C. San Anastasio, 4, 28005 Madrid",POINT (-3.7033722 40.3972382),Acacias,40.3972382,-3.7033722
-244,Grosso Napoletano,Italiana,Bajo,188 opiniones,Buenas pizzas,No disponible,POINT EMPTY,No encontrado,,
-245,Bresca,Italiana,Medio,146 opiniones,Pizzería en madrid,No disponible,POINT EMPTY,No encontrado,,
-246,Gagos pizza,Italiana,Bajo,68 opiniones,14.9 km,No disponible,POINT EMPTY,No encontrado,,
-247,Larepera,Bares y pubs,Bajo,56 opinionesAbre en 6 minutos,INDUSTRIABAR,"Pl. Mosén Rubí, 5, 05001 Ávila",POINT (-4.6998653 40.6573029),No encontrado,40.6573029,-4.6998653
-248,Artemisa Sol-Gran Via,Mediterránea,Medio,387 opinionesCierra en 6 minutos,PARA REPETIR COMIDA MUY BUENA,"C. de las Tres Cruces, 4, 28013 Madrid",POINT (-3.7029076 40.419207),Sol,40.419207,-3.7029076
-249,FORNERIA BALLARO,Italiana,Medio,253 opiniones,Recomendable,"Calle de Sta Engracia, 90, 28010 Madrid",POINT (-3.6998016 40.437811),Trafalgar,40.437811,-3.6998016
-250,Restaurante Chulla Ville,Mediterránea,Medio,59 opiniones,El mejor de la zona con diferencia,"C. de Longares, 34, 28022 Madrid",POINT (-3.6095751 40.4317775),Rosas,40.4317775,-3.6095751
-251,Noi Due Ristorante Pizzeria,Italiana,Medio,193 opinionesCierra en 6 minutos,Nuestro Italiano favorito,"C. de Vallehermoso, 59, 28015 Madrid",POINT (-3.7085659 40.4368161),Arapiles,40.4368161,-3.7085659
-252,Asador Avelino,Restaurante de carne,Medio,310 opiniones,Mejor cochinillo de Madrid,"C. de Joaquín Turina, 42, 28044 Madrid",POINT (-3.7551029 40.3721524),Buenavista,40.3721524,-3.7551029
-253,La Carbonera,Mediterránea,Medio,288 opiniones,Muy bien sitio,No disponible,POINT EMPTY,No encontrado,,
-254,Casa Benigna,Mediterránea,Alto,959 opiniones,Arroces y socarras en paelleras especialmente diseñadas.,"C. de Benigno Soto, 9, 28002 Madrid",POINT (-3.6743241 40.4480719),Ciudad Jardín,40.4480719,-3.6743241
-255,Trattoria Adriana,Italiana,Bajo,42 opinionesCierra en 6 minutos,Maravilloso,"Calle de Dagua, 12 Calle Zapatoca esq, C. de Zipaquirá, 28033 Madrid",POINT EMPTY,No encontrado,,
-256,Pez Tortilla,Pub con cerveza artesanal,Bajo,219 opiniones,"Recomendable, bar animado perfecto para un alto en el camino.",No disponible,POINT EMPTY,No encontrado,,
-257,Wok Garden Parrilla,China,Medio,74 opiniones,14.3 km,"Av. de Europa, 2, 28922 Alcorcón, Madrid",POINT (-3.8474245 40.3501987),No encontrado,40.3501987,-3.8474245
-258,Mu! El Placer De La Carne,Restaurante de carne,Medio,2968 opiniones,Encantador,No disponible,POINT EMPTY,No encontrado,,
-259,Hot Now,Italiana,Medio,150 opinionesCierra en 6 minutos,Muy muy bien,"C. de Barbieri, 14, 28004 Madrid",POINT (-3.6979947 40.4213703),Justicia,40.4213703,-3.6979947
-260,Mercado de San Miguel,Bar,Medio,34.374 opiniones,El Mercado!,"Pl. de San Miguel, s/n, 28005 Madrid",POINT EMPTY,No encontrado,,
-261,La Bella Anna,Italiana,Medio,243 opiniones,LUGAR AGRADABLE PARA COMER,"Av. del Monasterio de Silos, 25, 28049 Madrid",POINT (-3.7109163 40.5037656),Mirasierra,40.5037656,-3.7109163
-262,Restaurante Marina Ventura,Marisco,Medio,1595 opiniones,Paella increíble,"C. de Ventura de la Vega, 13, 28014 Madrid",POINT (-3.6989014 40.4153709),Cortes,40.4153709,-3.6989014
-263,desengaño13,Mediterránea,Medio,421 opiniones,Raciones y charla,"C. del Desengaño, 13, 28004 Madrid",POINT (-3.7043409 40.4210185),Sol,40.4210185,-3.7043409
-264,Los Montes de Galicia,Internacional,Medio,11.477 opinionesCierra en 6 minutos,Super experiencia,"C. de Azcona, 46, 28028 Madrid",POINT EMPTY,No encontrado,,
-265,GO!Sushing Getafe,Japonesa,Medio,22 opinionesCierra en 6 minutos,11.3 km,"P.º de La Estación, 13, Portal E, 28904 Madrid",POINT EMPTY,No encontrado,,
-266,Casa Jaguar Madrid,Mexicana,Medio,699 opiniones,5✨✨✨✨✨,No disponible,POINT EMPTY,No encontrado,,
-267,Aura Cafe,Café,Medio,29 opiniones,Personal muy agradable,No disponible,POINT EMPTY,No encontrado,,
-268,Le Coq Atocha,Francesa,Medio,114 opiniones,Muy bueno!,"C. de Atocha, 43, 28012 Madrid",POINT (-3.7010547 40.4133316),Embajadores,40.4133316,-3.7010547
-269,Cafeteria HD,Bar,Medio,692 opiniones,Ahí sigue,"C. de Guzmán el Bueno, 67, 28015 Madrid",POINT (-3.7132048 40.4360368),Gaztambide,40.4360368,-3.7132048
-270,Casa Macareno,Mediterránea,Medio,424 opiniones,Volveré para probar la ensaladilla,"C. de San Vicente Ferrer, 44, 28004 Madrid",POINT (-3.7048334 40.4258981),Universidad,40.4258981,-3.7048334
-271,Oter Epicure,Mediterránea,Medio,407 opiniones,"MUY BUEN SITIO PARA COMER A UN PRECIO RAZONABLE,PERO NO CUMPLEN COVID","C. de Claudio Coello, 71, 28001 Madrid",POINT (-3.686977 40.4224667),Recoletos,40.4224667,-3.686977
-272,Xiaolongkan Hot Pot,China,Medio,35 opiniones,Un viaje a China sin salir de Madrid!!,"C. Maestro Arbós, 3, 28045 Legazpi, Madrid",POINT (-3.6948041 40.3903916),Legazpi,40.3903916,-3.6948041
-273,Panaria,Café y té,Medio,42 opiniones,Atención cuidada,No disponible,POINT EMPTY,No encontrado,,
-274,MY Pasta Room,Italiana€€ - €€€,Medio,47 opiniones,Muy recomendable,"C. del Espíritu Santo, 16, 28004 Madrid",POINT (-3.703005727508269 40.4253956),Universidad,40.4253956,-3.703005727508269
-275,Pizzeria Fratelli Figurato,Italiana,Bajo,320 opiniones,"Bueno, pero puede mejorar","C. de Alonso Cano, 37, 28003 Madrid",POINT (-3.6978327 40.4389491),Almagro,40.4389491,-3.6978327
-276,Everest Curry House,India,Medio,23 opiniones,Genial,"Pl. Tres Olivos, 1, 28034 Madrid",POINT (-3.6904552 40.500384),Valverde,40.500384,-3.6904552
-277,Da Nicola Gran Vía,Italiana,Medio,824 opiniones,De lo menor cerca de La Plaza España,"Pl. de los Mostenses, 11, LOCAL, 28015 Madrid",POINT EMPTY,No encontrado,,
-278,That's Amore,Italiana,Medio,55 opiniones,Las mejores pizzas de Madrid,"C. de Pelayo, 6, 28004 Madrid",POINT (-3.6989735 40.4220213),Justicia,40.4220213,-3.6989735
-279,Alduccio,Italiana,Medio,220 opiniones,Muy recomendable,"Av. de Concha Espina, 8, 28036 Madrid",POINT (-3.6881503 40.4518121),El Viso,40.4518121,-3.6881503
-280,Restaurante La Vanduca,Mediterránea,Medio,342 opiniones,"Croquetas, ensaladas y tortilla","C. de Columela, 2, 28001 Madrid",POINT (-3.6881291 40.4210631),Jerónimos,40.4210631,-3.6881291
-281,Pans & Company,Café,Bajo,28 opiniones,Buenos bocadillos,No disponible,POINT EMPTY,No encontrado,,
-282,Trattoria In Crescendo,Italiana,Medio,175 opiniones,Buenas pizzas,"C. de Jaime el Conquistador, 31, 28045 Madrid",POINT (-3.698131648171755 40.39472105),Chopera,40.39472105,-3.698131648171755
-283,Fasfú Burguers,Postres,Bajo,79 opiniones,Comida Rápida,"C. de San Marcos, 24, 28004 Madrid",POINT (-3.6983741 40.4213416),Justicia,40.4213416,-3.6983741
-284,MEGU,China,Medio,129 opiniones,UN ASIÁTICO DE CONFIANZA,"Tr.ª de San Isidoro de Sevilla, 28, 28005 Madrid",POINT EMPTY,No encontrado,,
-285,Fratelli d'italia Lavapiés,Italiana,Bajo,198 opiniones,Un viaje a Italia sin salir de Madrid,"C. del Sombrerete, 1, 28012 Madrid",POINT (-99.0036553 19.3386613),No encontrado,19.3386613,-99.0036553
-286,Piccola Napoli,Italiana,Medio,14 opiniones,Buena comida italiana en Madrid,No disponible,POINT EMPTY,No encontrado,,
-287,La Taberna de Francesco,Italiana,Bajo,55 opiniones,"Voy prácticamente todos los días;Francesco y Sara son como familia,el trato es inmejorable y la comida espectacular.","C. de Ríos Rosas, 53, 28003 Madrid",POINT (-3.696326724028965 40.4419464),Rios Rosas,40.4419464,-3.696326724028965
-288,Bowlers Kitchen,India,Medio,49 opiniones,Good Vibes Delivery 🛵🥗,No disponible,POINT EMPTY,No encontrado,,
-289,El Brasero de Don Pedro,Restaurante de carne,Alto,847 opiniones,Mucho más de lo que esperaba,"Av. de Aragón, 358, 28022 Madrid",POINT (-3.571238224305556 40.4493265),Rejas,40.4493265,-3.571238224305556
-290,nonsolocaffé,Italiana,Medio,192 opiniones,Auténtica comida italiana,"C. de Ríos Rosas, 52, 28003 Madrid",POINT (-3.695821690588716 40.4415315),Rios Rosas,40.4415315,-3.695821690588716
-291,Solito Taqueria,Mexicana€€ - €€€Carta,Medio,54 opiniones,Cocina mexicana con cariño.,"C. de la Pasa, 4, 28005 Madrid",POINT (-3.708957 40.4142895),Palacio,40.4142895,-3.708957
-292,Restaurante La Rita,Internacional,Medio,40 opiniones,Comida grupo fenomenal,No disponible,POINT EMPTY,No encontrado,,
-293,Asia Te,China,Medio,163 opiniones,Buenísimo,"C. de Agustín de Foxá, 27, 28036 Madrid",POINT (-3.6852032 40.4707986),Castilla,40.4707986,-3.6852032
-294,Diaz y Larrouy,Mediterránea,Medio,136 opiniones,"Una pena, se alquila","C. de Embajadores, 65, 28012 Madrid",POINT (-3.701302795617484 40.40392185),Acacias,40.40392185,-3.701302795617484
-295,Mad by Robleño,Mediterránea,Medio,35 opiniones,Para repetir.,"Calle de Diego de León, 26, 28006 Madrid",POINT (-3.682570563157822 40.4345345),Castellana,40.4345345,-3.682570563157822
-296,El Cunzato,Italiana,Bajo,31 opiniones,¡Gran descubrimiento!,"C. de Sta. Isabel, 5, 28012 Madrid",POINT (-3.6984768 40.4117321),Embajadores,40.4117321,-3.6984768
-297,Crudo,Mediterránea,Medio,13 opiniones,Muy recomendable,No disponible,POINT EMPTY,No encontrado,,
-298,La Lonja Restaurante,Marisco,Medio,550 opiniones,Agradable sitio en un lugar privilegiado,No disponible,POINT EMPTY,No encontrado,,
-299,Federica By Chef Oswaldo Sanchez,Italiana,Medio,72 opiniones,BUENÍSIMO,No disponible,POINT EMPTY,No encontrado,,
+,Unnamed: 0,restaurante,gastronomia,precio,opinion,reseña,ubicacion,punto,barrio,lat,long
+0,0,Yakiniku Rikyu,Japonesa,Medio,267 opiniones,Patrocinado,"P.º de la Castellana, 15, 28046 Madrid",POINT (-3.690173 40.4280979),Almagro,40.4280979,-3.690173
+1,1,marmitón,Mediterránea,Medio,89 opiniones,MICHELIN,"C. de las Aguas, 6, 28005 Madrid",POINT (-3.712107746868964 40.4108219),Palacio,40.4108219,-3.712107746868964
+2,2,Vinoteca Moratín,Internacional,Medio,1221 opiniones,MICHELIN,"C. de Moratín, 36, 28014 Madrid",POINT (-3.6954412113077497 40.412472050000005),Cortes,40.412472050000005,-3.6954412113077497
+3,3,Pilar Akaneya,Japonesa,Alto,276 opiniones,MICHELIN,"C. de Espronceda, 33, 28003 Madrid",POINT (-3.696109 40.4405573),Rios Rosas,40.4405573,-3.696109
+4,4,Gioia,Italiana,Medio,387 opiniones,MICHELIN,"C. de San Bartolomé, 23, 28004 Madrid",POINT (-3.6983792 40.4221651),Justicia,40.4221651,-3.6983792
+5,5,Noi Ristorante,Italiana,Medio,244 opiniones,MICHELIN,"C. de Recoletos, 6, 28001 Madrid",POINT (-3.6906004 40.4220139),Recoletos,40.4220139,-3.6906004
+6,6,Mudrá Plant Based Recoletos,Internacional,Medio,67 opiniones,MICHELIN,"C. de Recoletos, 13, 28001 Madrid",POINT (-3.6898244 40.4218211),Recoletos,40.4218211,-3.6898244
+7,7,La MaMá Restaurante,Mediterránea,Medio,225 opiniones,MICHELIN,"6 bis, Parque, Av. de Brasil, 28020 Madrid",POINT EMPTY,No encontrado,,
+8,8,Sisapo,Mediterránea,Medio,71 opiniones,MICHELIN,"C. de Trafalgar, 14, 28010 Madrid",POINT (-3.7004566 40.4318711),Trafalgar,40.4318711,-3.7004566
+9,9,RECREO Espartinas,Mediterránea,Medio,366 opiniones,MICHELIN,"C. de Espartinas, Nº 5, 28001 Madrid",POINT EMPTY,No encontrado,,
+10,10,Miyama,Japonesa,Alto,837 opiniones,MICHELIN,No disponible,POINT EMPTY,No encontrado,,
+11,11,Deessa,Mediterránea,Alto,52 opiniones,MICHELIN,"Pl. de la Lealtad, 5, 28014 Madrid",POINT (-3.692725530645917 40.41555015),Cortes,40.41555015,-3.692725530645917
+12,12,Hotaru Madrid,Japonesa,Alto,199 opiniones,MICHELIN,"C. de Alcalá, 99, 28009 Madrid",POINT (-3.6834669 40.421502),Jerónimos,40.421502,-3.6834669
+13,13,Yugo the Bunker,Japonesa,Alto,342 opiniones,MICHELIN,"Calle de San Blas, 4, 28014 Madrid",POINT (-3.6938335 40.410375),Embajadores,40.410375,-3.6938335
+14,14,Coque,Internacional,Alto,476 opiniones,MICHELIN,No disponible,POINT EMPTY,No encontrado,,
+15,15,El pedrusco de Aldealcorvo,Internacional,Medio,223 opinionesCierra en 6 minutos,MICHELIN,"C. de Juan de Austria, 27, 28010 Madrid",POINT (-3.7000495 40.4339433),Trafalgar,40.4339433,-3.7000495
+16,16,KABUKI WELLINGTON SL,Japonesa,Alto,974 opiniones,MICHELIN,"C. de Velázquez, 6, 28001 Madrid",POINT (-3.6841825 40.4217715),Jerónimos,40.4217715,-3.6841825
+17,17,Kabuki,Japonesa,Alto,725 opiniones,MICHELIN,No disponible,POINT EMPTY,No encontrado,,
+18,18,Restaurante Lakasa,Mediterránea,Medio,1161 opiniones,MICHELIN,"Pl. del Descubridor Diego de Ordás, 1, 28003 Madrid",POINT (-3.7007791 40.4408805),Rios Rosas,40.4408805,-3.7007791
+19,19,Bardero,Mediterránea,Medio,106 opiniones,Comida espectacular por 37€ por persona,"Palos de la Frontera, 11, 28012 Madrid",POINT (-3.694602 40.4039759),Palos de Moguer,40.4039759,-3.694602
+20,20,Pizzart Fuencarral,Italiana,Medio,940 opiniones,Excelente comida,"Calle de Fuencarral, 58, 28004 Madrid",POINT (-3.7005775 40.4240282),Universidad,40.4240282,-3.7005775
+21,21,Ornella Velázquez,Italiana,Medio,2317 opiniones,La parmigiana de la nonna y la atencion 10/10,"C. de Velázquez, 18, 28001 Madrid",POINT (-3.6841057 40.4233344),Recoletos,40.4233344,-3.6841057
+22,22,Lettera Trattoria moderna,Italiana,Medio,1564 opiniones,Muy recomendable,"C. de la Reina, 20, 28004 Madrid",POINT (-3.6981938 40.4197308),Cortes,40.4197308,-3.6981938
+23,23,Pizzart Villa Canalejas,Italiana,Medio,901 opiniones,Magnifico,"C. de Arlabán, 1, 28014 Madrid",POINT (-3.6995917 40.4170322),Cortes,40.4170322,-3.6995917
+24,24,Pummarola,Italiana,Medio,605 opiniones,8 km,"Av. de Europa, 17, 28224 Pozuelo de Alarcón, Madrid",POINT (-3.789951 40.4444685),No encontrado,40.4444685,-3.789951
+25,25,Brunchit Malasaña,Café,Medio,548 opiniones,Buen brunch,"C. del Noviciado, 12, 28015 Madrid",POINT EMPTY,No encontrado,,
+26,26,Ouh...Babbo!,Italiana,Medio,665 opiniones,Comida deliciosa a precio ajustado,"C. de los Caños del Peral, 2, 28013 Madrid",POINT EMPTY,No encontrado,,
+27,27,Restaurante Excalibur Madrid,Restaurante de carne,Medio,170 opiniones,Espectáculo,"C. de Martín de los Heros, 28, 28008 Madrid",POINT (-3.7146245 40.4257675),Casa de Campo,40.4257675,-3.7146245
+28,28,Rigatoni,Italiana,Medio,250 opiniones,15.5 km,"C. de Boadilla, 8, 28220 Majadahonda, Madrid",POINT (-3.852097 40.4723325),No encontrado,40.4723325,-3.852097
+29,29,Davanti Food & Market,Italiana,Medio,413 opiniones,"Buena comida, local muy agradable","C. de Augusto Figueroa, 41, 28004 Madrid",POINT (-3.6968794 40.4220975),Justicia,40.4220975,-3.6968794
+30,30,Entre Santos Madrid,Mediterránea,Medio,1346 opiniones,Buen ambiente. Coctelería estupenda,"C. de San Bartolomé, 4, 28004 Madrid",POINT (-3.6986687 40.4213536),Justicia,40.4213536,-3.6986687
+31,31,Trattoria Malatesta,Italiana,Medio,2138 opiniones,Auténtica pizza italiana,"Trattoria Malatesta, C. de los Coloreros, 5, 28013 Madrid",POINT (-3.707066 40.416551),Sol,40.416551,-3.707066
+32,32,Minelli 1960,Italiana,Medio,111 opiniones,Italiano imprescindible,"Cl. de Ayala, 140, 28006 Madrid",POINT (-3.6721896 40.4270602),Goya,40.4270602,-3.6721896
+33,33,Oven Mozzarella Gran Vía 6,Italiana,Medio,5337 opiniones,Genial,"C.Gran Vía, 6, 28013 Madrid",POINT (-3.6979191 40.4193615),Cortes,40.4193615,-3.6979191
+34,34,Lab '84,Italiana,Medio,75 opiniones,Muy Fan de este lugar.,No disponible,POINT EMPTY,No encontrado,,
+35,35,Sibuya Urban Sushi Bar Madrid C/Orense,Japonesa,Medio,871 opiniones,La comida y el servicio,"C. de Orense, 11, 28020 Madrid",POINT (-3.6947608 40.4551425),Cuatro Caminos,40.4551425,-3.6947608
+36,36,Gustazio Gastrobar,Italiana,Medio,237 opiniones,La mejor pizza que puedas comer (al menos en Madrid),"C. de Embajadores, 197, 28045 Madrid",POINT (-3.6910665 40.3883103),Legazpi,40.3883103,-3.6910665
+37,37,Smok Mok,Japonesa,Bajo,103 opiniones,Increíble!!!!,"Calle del Dr Cortezo, 10, 28012 Madrid",POINT (-3.703991681218869 40.41308265),Embajadores,40.41308265,-3.703991681218869
+38,38,Piccola Napoli,Italiana,Bajo,500 opiniones,Comida muy rica y a buen precio,No disponible,POINT EMPTY,No encontrado,,
+39,39,Da Luca,Italiana,Medio,451 opiniones,14.6 km,No disponible,POINT EMPTY,No encontrado,,
+40,40,Il Pizzaiolo,Italiana,Medio,929 opiniones,Gran descubrimiento,"C/ de Hortaleza, 84, 28004 Madrid",POINT (-3.6985395 40.4237578),Justicia,40.4237578,-3.6985395
+41,41,Pastamore,Italiana,Medio,1024 opiniones,Deliciosa la comida,"C. de Alcalá, 191, 28009 Madrid",POINT (-3.6699464 40.4276705),Goya,40.4276705,-3.6699464
+42,42,Oven Mozzarella,Italiana,Medio,712 opiniones,Excelente como siempre,No disponible,POINT EMPTY,No encontrado,,
+43,43,Gourmet Experience Gran Vía,Japonesa,Medio,1029 opiniones,Gran via,"Comercial El Corte Inglés, Pl. del Callao, 2, 9ª planta Centro, 28013 Madrid",POINT EMPTY,No encontrado,,
+44,44,Proverbium,Italiana,Medio,302 opiniones,15 km,"C. de los Mártires, 19, 28660 Boadilla del Monte, Madrid",POINT (-3.8772492 40.4082737),No encontrado,40.4082737,-3.8772492
+45,45,Dans Le Noir ?,Mediterránea,Alto,460 opiniones,Muy buena experiencia!,"Pl. del Biombo, 5, 28013 Madrid",POINT (-3.711420090625 40.4160083),Palacio,40.4160083,-3.711420090625
+46,46,Kamado Asian Food X-Madrid,Asiática,Medio,229 opiniones,15 km,"C. Oslo, 53, 28922 Alcorcón, Madrid",POINT (-3.8476277532704177 40.33970455),No encontrado,40.33970455,-3.8476277532704177
+47,47,PICCOLO DIAVOLO,Italiana,Medio,689 opiniones,Restaurante italiano Madrid,"C. de Fúcar, 11, 28014 Madrid",POINT (-3.6955698 40.4114617),Embajadores,40.4114617,-3.6955698
+48,48,Raza Madrid,Restaurante de carne,Alto,188 opiniones,Bien pero sorpresa,No disponible,POINT EMPTY,No encontrado,,
+49,49,Eatmytrip Brunch & Cocktails Madrid,Americana,Medio,203 opiniones,100% Recomendado,No disponible,POINT EMPTY,No encontrado,,
+50,50,Pizzeria Vesuvio -Hortaleza,Italiana,Bajo,796 opiniones,"Muy recomendable,personal amable","C/ de Hortaleza, 4, 28004 Madrid",POINT (-3.7006627 40.4205983),Sol,40.4205983,-3.7006627
+51,51,BLoved,Internacional,Medio,475 opiniones,Cuqui,"C.Gran Vía, 9, 28013 Madrid",POINT (-3.6990703 40.4194531),Sol,40.4194531,-3.6990703
+52,52,Trattoria Pulcinella,Italiana,Medio,2786 opiniones,Cena con amigos,"C. de Regueros, 7, 28004 Madrid",POINT (-3.6965193 40.4246294),Justicia,40.4246294,-3.6965193
+53,53,Oven Mozzarella Bar Fuencarral,Italiana,Medio,4135 opiniones,Cena exquisita,"Calle de Fuencarral, 74, 28004 Madrid",POINT (-3.7007733 40.4251706),Universidad,40.4251706,-3.7007733
+54,54,Pizzie & Dixie,Italiana,Medio,210 opiniones,Comida sin gluten y vegana,"C. de San Vicente Ferrer, 16, 28004 Madrid",POINT (-3.702929 40.4257159),Universidad,40.4257159,-3.702929
+55,55,Fiaschetteria La Saletta,Italiana,Bajo,298 opiniones,Perfecta opción de cocina italiana autentica,"C. de Sta. Isabel, 5, 2nd floor, 28012 Madrid",POINT EMPTY,No encontrado,,
+56,56,Ronda 14,Japonesa,Medio,983 opiniones,Excelente cena familiar,No disponible,POINT EMPTY,No encontrado,,
+57,57,Bombardino Café,Italiana,Medio,353 opiniones,Experiencia inolvodable,No disponible,POINT EMPTY,No encontrado,,
+58,58,Matilda,Café y té,Bajo,760 opiniones,"Buen trato, rica comida",No disponible,POINT EMPTY,No encontrado,,
+59,59,Oliveto,Italiana,Medio,380 opiniones,"Todo muy bueno, solo he echado de menos algún tipo de ensalada. Por lo demás acogedor, buen trato y muy familiar.","C. de Sta. Isabel, 45, 28012 Madrid",POINT (-3.6964775 40.4097721),Embajadores,40.4097721,-3.6964775
+60,60,Etnico Madrid,Bares y pubs,Medio,141 opiniones,Excelente cocteleriaBar,No disponible,POINT EMPTY,No encontrado,,
+61,61,La General Bistró & Café,Café y té,Medio,403 opiniones,BBB,"C. del Planeta, 3, 28042 Madrid",POINT (-3.7580724 40.2260137),No encontrado,40.2260137,-3.7580724
+62,62,Araldo Arte del Gusto,Italiana,Medio,211 opiniones,Restaurante italiano de calidad.materia prima de primera calidad.,"C. de los Madrazo, 5, 28014 Madrid",POINT (-3.698063488576339 40.4176169),Cortes,40.4176169,-3.698063488576339
+63,63,Ristorante Reginella,Italiana,Medio,681 opiniones,Masa aireada y sabrosa pizza,"Calle de Modesto Lafuente, 76, 28003 Madrid",POINT (-3.6960349 40.4414475),Rios Rosas,40.4414475,-3.6960349
+64,64,Eatmytrip Brunch & Dinner Madrid,Americana,Medio,62 opiniones,También tienen cenas los fines de semana y están genial!!,No disponible,POINT EMPTY,No encontrado,,
+65,65,Menomale,Italiana,Medio,204 opiniones,Maravilla,"C. de San Bernardo, 85, 28015 Madrid",POINT (-3.7063184 40.4284441),Universidad,40.4284441,-3.7063184
+66,66,Casa Crimi,Italiana,Medio,32 opiniones,"Espectacular, como siempre","P.º del Marqués de Zafra, 44, 28028 Madrid",POINT (-3.662861243934684 40.425141),Fuente del Berro,40.425141,-3.662861243934684
+67,67,Mamúa Café Bar. Specialty coffee,Café,Bajo,129 opiniones,FANTASTICO,"Pl. de Cascorro, 7, 28005 Madrid",POINT (-3.7071215 40.4102866),Embajadores,40.4102866,-3.7071215
+68,68,Pizzart Villa Luchana,Italiana,Medio,775 opiniones,Buena vibra ✨,"C. de Luchana, 17, 28010 Madrid",POINT (-3.7007008808428026 40.430298500000006),Trafalgar,40.430298500000006,-3.7007008808428026
+69,69,Dr Limon,Café,Medio,81 opiniones,Totalmente recomendable,No disponible,POINT EMPTY,No encontrado,,
+70,70,Filu e Ferru,Italiana,Medio,37 opiniones,Cocina sarda en Madrid,"C. de San Joaquín, 5, 28004 Madrid",POINT (-3.7014272 40.4245501),Universidad,40.4245501,-3.7014272
+71,71,Latasia,Peruana,Medio,480 opiniones,Buenísimo,"P.º de la Castellana, 115, 28046 Madrid",POINT (-3.6907533 40.4568559),Cuatro Caminos,40.4568559,-3.6907533
+72,72,Sibuya Urban Sushi Bar X-Madrid,Japonesa,Medio,337 opiniones,11.6 km,"C. Oslo, 53, 28922 Alcorcón, Madrid",POINT (-3.8476277532704177 40.33970455),No encontrado,40.33970455,-3.8476277532704177
+73,73,La Pizzateca,Italiana,Bajo,1150 opiniones,La mejor pizza de queso que he comido nunca.,"C. del León, 35, 28014 Madrid",POINT (-3.6992805 40.4127726),Embajadores,40.4127726,-3.6992805
+74,74,Sibuya Urban Sushi Bar Madrid C/ibiza,Japonesa,Medio,724 opiniones,Delicioso,"C. de Ibiza, 33, 28009 Madrid",POINT (-3.6743147 40.4183439),Ibiza,40.4183439,-3.6743147
+75,75,Inclán Brutal Bar,Bar,Medio,5570 opiniones,Un lugar diferente donde comer,"C. de Álvarez Gato, 4, 28012 Madrid",POINT (-3.7019298 40.4151014),Embajadores,40.4151014,-3.7019298
+76,76,CHILA,China,Medio,88 opiniones,Buen y original restaurante chino,No disponible,POINT EMPTY,No encontrado,,
+77,77,Angelita Madrid,Internacional,Medio,809 opiniones,centrico y muy buen vino y comida,"C. de la Reina, 4, 28004 Madrid",POINT (-3.7003595 40.4203614),Sol,40.4203614,-3.7003595
+78,78,Divino Tinto,Mediterránea,Medio,278 opiniones,Recomendado 100%,"C. del Hierro, 4B, 28045 Madrid",POINT (-3.6921024 40.3931748),Delicias,40.3931748,-3.6921024
+79,79,Pizzamascalzone,Italiana,Medio,157 opiniones,Experiencia única,"Calle de Cervantes, 1, 28014 Madrid",POINT (-3.6945481 40.414889),Cortes,40.414889,-3.6945481
+80,80,BAMMBAO,China,Medio,15 opiniones,Comida china innovadora muy top,"C. de Nicolás Sánchez, 54, 28026 Madrid",POINT (-3.7058932 40.3832768),Pradolongo,40.3832768,-3.7058932
+81,81,Éccolo,Italiana,Medio,133 opiniones,Gusto de sitio,No disponible,POINT EMPTY,No encontrado,,
+82,82,Maximo's,Japonesa,Medio,269 opiniones,Sushi de calidad,"Av. de Menéndez Pelayo, 53, 28009 Madrid",POINT (-3.6778512 40.4162707),Jerónimos,40.4162707,-3.6778512
+83,83,Taberna Más Al Sur,Mediterránea,Medio,6329 opiniones,Excelente!,"C. de Sta. Isabel, 35, 28012 Madrid",POINT (-3.6969556 40.4100214),Embajadores,40.4100214,-3.6969556
+84,84,Peppe Fusco The Italian,Italiana,Medio,606 opiniones,Comida exquisita. Relación calidad/precio sobresaliente.,"Calle de Fuencarral, 139, 28010 Madrid",POINT (-3.7041275 40.4333131),Arapiles,40.4333131,-3.7041275
+85,85,Metro Bistró - Plaza Mayor,Mediterránea,Medio,1882 opiniones,Precio Calidad a Tope,"C. Imperial, 3, 28012 Madrid",POINT (-3.7067441768480895 40.414546650000005),Palacio,40.414546650000005,-3.7067441768480895
+86,86,Cromia,Americana,Medio,20 opiniones,Parrillada vzlana deliciosa!,"Av. de Castilla-La Mancha, 113, LOCAL, 28701 San Sebastián de los Reyes, Madrid",POINT EMPTY,No encontrado,,
+87,87,Waraku,Japonesa,Medio,76 opiniones,Top Japonés,"C. de Benito Gutiérrez, 4, 28008 Madrid",POINT (-3.7180002 40.4322225),Argüelles,40.4322225,-3.7180002
+88,88,Mitiko,China,Alto,96 opiniones,Delicioso,"C. de Sor Ángela de la Cruz, 22, 28020 Madrid",POINT (-3.6954038 40.4598584),Castillejos,40.4598584,-3.6954038
+89,89,A vÁnvera,Italiana,Medio,444 opiniones,Trato excepcional y comida de 10,"Calle de Zurbano, 85, 28003 Madrid",POINT (-3.6928346 40.4397914),Rios Rosas,40.4397914,-3.6928346
+90,90,Enklima,Mediterránea,Medio,231 opiniones,Absolutamente perfecto,No disponible,POINT EMPTY,No encontrado,,
+91,91,Kaiten Sushi Madrid,Japonesa,Medio,270 opiniones,Muy buena experiencia y variedad,"C. de San Bernardo, 10, 28015 Madrid",POINT (-3.7076973 40.4219842),Palacio,40.4219842,-3.7076973
+92,92,Gramabar,Americana,Medio,1656 opiniones,Riquisimoooo,No disponible,POINT EMPTY,No encontrado,,
+93,93,BIZZO! Moncloa,Italiana,Bajo,169 opiniones,¡¡¡DE LOS MEJORES !!!,"C. de Andrés Mellado, 77, 28003 Madrid",POINT (-3.7141628 40.4395224),Gaztambide,40.4395224,-3.7141628
+94,94,Sibuya Urban Sushi Bar Chueca,Japonesa,Medio,1014 opiniones,Excelente calidad/precio,"C. de Santo Tomé, 5, 28004 Madrid",POINT (-3.6950547 40.4236412),Justicia,40.4236412,-3.6950547
+95,95,Tacoctelería,Bares y pubs,Medio,114 opiniones,Fantástico!,"C. de Valverde, 7, 28004 Madrid",POINT (-3.7022014 40.420994),Sol,40.420994,-3.7022014
+96,96,Malafemmena,Italiana,Medio,1512 opiniones,Italiano con toques diferentes,"C. del Dr. Esquerdo, 13, 28028 Madrid",POINT (-3.668196522884696 40.42642025000001),Goya,40.42642025000001,-3.668196522884696
+97,97,Mamma Maria,Italiana,Medio,439 opinionesCierra en 6 minutos,11 km,"C. Palomares, 1, 28911 Leganés, Madrid",POINT (-3.7648207 40.3293631),No encontrado,40.3293631,-3.7648207
+98,98,La Burbujería,Mediterránea,Medio,144 opiniones,"Qué rico todo, qué amables","C. del Barco, 7, 28004 Madrid",POINT (-3.7028788 40.4213047),Sol,40.4213047,-3.7028788
+99,99,El 11 Resto-Brunch,Francesa,Medio,47 opiniones,Recomendable,No disponible,POINT EMPTY,No encontrado,,
+100,100,Grosso Napoletano Senza Glutine,Italiana,Medio,66 opiniones,Gran opción para celiacos,No disponible,POINT EMPTY,No encontrado,,
+101,101,izakaya Han,Japonesa,Medio,469 opiniones,Siuuuuuuu,"C. de San Bartolomé, 10, 28004 Madrid",POINT (-3.6984647 40.4218369),Justicia,40.4218369,-3.6984647
+102,102,Sandy Barracane,Italiana,Medio,78 opiniones,Sin palabras.,No disponible,POINT EMPTY,No encontrado,,
+103,103,Mamma Maria,Italiana,Medio,439 opiniones,11 km,"C. Palomares, 1, 28911 Leganés, Madrid",POINT (-3.7648207 40.3293631),No encontrado,40.3293631,-3.7648207
+104,104,Cafeteria Neila,Bar,Bajo,133 opiniones,ideal para la cervecita y el pincho,"Calle de Sta. María, 41, 28014 Madrid",POINT (-3.6958247 40.41265),Cortes,40.41265,-3.6958247
+105,105,Taberna de Peñalver,Marisco,Medio,1123 opiniones,Gran servicio y comida,"C. del Conde de Peñalver, 90, 28006 Madrid",POINT (-3.6747828 40.4337774),Lista,40.4337774,-3.6747828
+106,106,Santita Virgen de los Peligros,Mexicana,Medio,1086 opiniones,Fantástico postre,"C. de la Virgen de los Peligros, 10, 28013 Madrid",POINT (-3.6995762 40.418907),Sol,40.418907,-3.6995762
+107,107,La Piramide,Internacional,Medio,230 opiniones,Fantástica celebración familiar,No disponible,POINT EMPTY,No encontrado,,
+108,108,La Piccola Trattoria,Italiana,Medio,332 opiniones,Insuperable,"C. de la Torrecilla del Leal, 15, 28012 Madrid",POINT (-3.6994005 40.4105895),Embajadores,40.4105895,-3.6994005
+109,109,Lamiak,Bar,Bajo,313 opiniones,"Genial, rico, barato y buen ambiente",No disponible,POINT EMPTY,No encontrado,,
+110,110,Emma y Julia,Italiana,Medio,543 opiniones,Buen italiano en plena Cava Baja,"C. de la Cava Baja, 19, 28005 Madrid",POINT (-3.7089636 40.4125001),Palacio,40.4125001,-3.7089636
+111,111,Pizzeria Fratelli,Italiana,Medio,466 opiniones,Muy buena experiencia,No disponible,POINT EMPTY,No encontrado,,
+112,112,Casa Lucas,Mediterránea,Medio,1381 opiniones,"Excelente, un clásico",No disponible,POINT EMPTY,No encontrado,,
+113,113,MACAO Príncipe,Japonesa,Medio,376 opiniones,Platos diferentes.,"C. del Príncipe, 16, 28012 Madrid",POINT (-3.7003953 40.4154674),Cortes,40.4154674,-3.7003953
+114,114,Vinos de Bellota,Mediterránea,Medio,884 opiniones,Siempre es un acierto,"C. de Antonio Acuña, 27, 28009 Madrid",POINT (-3.678872020735685 40.42075165),Jerónimos,40.42075165,-3.678872020735685
+115,115,Maruzzella,Italiana,Medio,1022 opiniones,Comida 100% italiana,"C. de Raimundo Fernández Villaverde, 28, 28003 Madrid",POINT (-3.6995503594813393 40.44604875),Rios Rosas,40.44604875,-3.6995503594813393
+116,116,Cervecería El Caño,Bar,Bajo,269 opiniones,Cada vez que vengo a Madrid repito,"C. de Cobos de Segovia, 30, 28005 Madrid",POINT (-3.7191486 40.4060379),Imperial,40.4060379,-3.7191486
+117,117,Acqua In Bocca Trattoria,Italiana,Medio,90 opiniones,Italiano increíble. Excelente elección,"C. de Arias Montano, 30, 28007 Madrid",POINT (-3.6705178 40.4097349),Niño Jesús,40.4097349,-3.6705178
+118,118,Sto Globo Sushi Room,Japonesa,Medio,346 opinionesCierra en 2 minutos,Siguen siendo los mejores,"Calle de Sta. Teresa, 8, 28004 Madrid",POINT (-3.6959139 40.4257801),Justicia,40.4257801,-3.6959139
+119,119,Sazón-arte,Mediterránea,Medio,313 opiniones,Estupenda cena de tapeo,"C. de Menorca, 19, local izquierdo bajo g, 28009 Madrid",POINT EMPTY,No encontrado,,
+120,120,Sr. Ito,Japonesa,Medio,975 opiniones,Sabor y atención excelente,No disponible,POINT EMPTY,No encontrado,,
+121,121,Rioko Nikkei Sushi Bar,Japonesa,Medio,67 opiniones,Un restaurante especial y acogedor,"Carrer de Ciscar, 49, bajo, 46005 Valencia",POINT EMPTY,No encontrado,,
+122,122,Cruda Restaurante,Mexicana,Medio,533 opiniones,Estupendo,No disponible,POINT EMPTY,No encontrado,,
+123,123,Trattoria Pizzeria A'Fenestella,Italiana,Medio,265 opiniones,Se solucionó el malentendido,"C. de Torquemada, 25, 28043 Madrid",POINT (-3.6384778 40.4684417),Canillas,40.4684417,-3.6384778
+124,124,Restaurante Gaudium Chamberí,Mediterránea,Medio,175 opiniones,Original y clásico,"C. de Sta. Feliciana, 14, 28010 Madrid",POINT (-3.6990576 40.4331934),Trafalgar,40.4331934,-3.6990576
+125,125,Isabella Restaurante,Italiana,Medio,51 opiniones,Muy agradable a la vista y paladar,"C. de Puigcerda, 4, 28001 Madrid",POINT (-3.6863008 40.4238727),Recoletos,40.4238727,-3.6863008
+126,126,I Malavoglia,Italiana,Medio,52 opiniones,Sitio tranquilo. Buenas pizzas,No disponible,POINT EMPTY,No encontrado,,
+127,127,Guasa Madrid,Fusión,Medio,75 opiniones,Fenomenal,No disponible,POINT EMPTY,No encontrado,,
+128,128,Lamonarracha-Chamberí,Japonesa,Medio,91 opiniones,Un japonés diferente con platos realmente buenos y un trato espectacular,"C. de Alonso Cano, 53, 28003 Madrid",POINT (-3.6974228 40.4428631),Rios Rosas,40.4428631,-3.6974228
+129,129,Oven mozzarella Bar Las Tablas,Italiana,Medio,1361 opiniones,Comida deliciosa y excelente servicio,"Esquina con, Calle San Juan de Ortega, C. de Hontanás, 36, 28050 Madrid",POINT EMPTY,No encontrado,,
+130,130,Cafe Grill La Luna,Italiana,Medio,94 opiniones,15.1 km,"C. de Pablo Picasso, 13, 28100 Alcobendas, Madrid",POINT (-3.6377026 40.5425173),No encontrado,40.5425173,-3.6377026
+131,131,Yakiniku Rikyu,Japonesa,Medio,267 opinionesCierra en 2 minutos,Para repetir sin duda,"P.º de la Castellana, 15, 28046 Madrid",POINT (-3.690173 40.4280979),Almagro,40.4280979,-3.690173
+132,132,Empanadas Malvón,Latina,Medio,86 opiniones,Empanadas de 10,No disponible,POINT EMPTY,No encontrado,,
+133,133,Pante Cucina Siciliana,Italiana,Medio,194 opiniones,Delicioso,"C. de Villanueva, 21, 28001 Madrid",POINT (-3.6849051 40.4224831),Recoletos,40.4224831,-3.6849051
+134,134,La Gaditana Castellana,Internacional,Medio,1971 opiniones,Con ganas de volver!,"P.º de la Castellana, 56, 28046 Madrid",POINT (-3.6897359 40.4656834),Castillejos,40.4656834,-3.6897359
+135,135,Hddn Premium Mixology & Cuisine,Bares y pubs,Alto,47 opiniones,lugar especialmente bonito,"Pl. de Prta Cerrada, 7, 28005 Madrid",POINT EMPTY,No encontrado,,
+136,136,Teta & Sopa,Japonesa,Medio,19 opiniones,Comida sorprendente,No disponible,POINT EMPTY,No encontrado,,
+137,137,RESTAURANTE DOLCE VITA COSLADA,Mediterránea,Medio,420 opiniones,13.6 km,"C. de Venezuela, 1, 28823 Coslada, Madrid",POINT EMPTY,No encontrado,,
+138,138,Restaurante Morgana,Mediterránea,Medio,978 opiniones,Buena cena de gastronomía gallega,"C. de la Libertad, 5, 28004 Madrid",POINT (-3.6974459 40.4204587),Cortes,40.4204587,-3.6974459
+139,139,Macuto / Auténtico Latino,Mexicana,Medio,41 opiniones,Recomendable,"C. del Espíritu Santo, 40, 28004 Madrid",POINT (-3.7051152 40.4256072),Universidad,40.4256072,-3.7051152
+140,140,La Rollerie- Calle Mayor,Americana,Medio,766 opiniones,Desayuno rico,No disponible,POINT EMPTY,No encontrado,,
+141,141,Oven Mozzarella Gran Vía 55,Italiana,Medio,2264 opiniones,Comida en familia,"C.Gran Vía, 55, 28013 Madrid",POINT (-3.7084213 40.4216379),Palacio,40.4216379,-3.7084213
+142,142,Amordmadre,Mediterránea,Medio,428 opiniones,RECOMENDADO 100%,"C. de la Sierra de Palomeras, 40, 28031 Madrid",POINT (-3.6256439 40.3750349),Casco Histórico de Vallecas,40.3750349,-3.6256439
+143,143,Campesino Burger Al Carbón,Americana,Bajo,239 opiniones,Buena materia prima a un precio razonable,"C. de Atocha, 111, 28012 Madrid",POINT (-3.6948924 40.4104634),Embajadores,40.4104634,-3.6948924
+144,144,Camino Sacramento,Restaurante de carne,Medio,430 opiniones,Gran lugar para comer bien,"de El Corte Inglés de Callao zona Gourmet Experience, Pl. del Callao, 2, 9ª planta, 28013 Madrid",POINT EMPTY,No encontrado,,
+145,145,Restaurante Ático,Mediterránea,Alto,1123 opiniones,Inmejorable,"C. del Marqués de Valdeiglesias, 1, 28004 Madrid",POINT (-3.6971316 40.4193652),Cortes,40.4193652,-3.6971316
+146,146,GastroVía 61,Mediterránea,Medio,2039 opiniones,Genial,"Hotel Mayorazgo, C. de la Flor Baja, 3, 28013 Madrid",POINT EMPTY,No encontrado,,
+147,147,Massa Pizza,Italiana,Medio,452 opiniones,"Buena pizza, buena atención 👌🏼","C. de Fernández de los Ríos, 47, 28015 Madrid",POINT (-3.7108818 40.4351596),Gaztambide,40.4351596,-3.7108818
+148,148,Yatai Market,Tentempiés,Medio,335 opiniones,Mercado con espíritu oriental,"Calle del Dr Cortezo, 10, 28012 Madrid",POINT (-3.703991681218869 40.41308265),Embajadores,40.41308265,-3.703991681218869
+149,149,La Piperna,Italiana,Medio,478 opiniones,Excelente comida y amplia carta de vinos,"C. de la Infanta Mercedes, 98, 28020 Madrid",POINT (-3.6928837 40.4638524),Castillejos,40.4638524,-3.6928837
+150,150,MICASITA BUVETTE,Mediterránea,Medio,115 opiniones,Tercio frío,"C. de Gutenberg, 6, 28014 Madrid",POINT (-3.681200689936439 40.40501875),Pacífico,40.40501875,-3.681200689936439
+151,151,Trattoria La Tavernetta,Italiana,Medio,326 opiniones,Excelente,"C. de Orellana, 17, 28004 Madrid",POINT (-3.6941121 40.4261186),Justicia,40.4261186,-3.6941121
+152,152,Burmet,Mexicana,Medio,89 opiniones,No quebró,No disponible,POINT EMPTY,No encontrado,,
+153,153,Poké Friendly,Japonesa,Medio,53 opiniones,Muy rico y muy contentos!,No disponible,POINT EMPTY,No encontrado,,
+154,154,Nacho Bravo,Mexicana,Bajo,157 opiniones,Rico rico,"Paseo de las Delicias, 139, 28045 Madrid",POINT (-3.69463904509838 40.3920567),Chopera,40.3920567,-3.69463904509838
+155,155,Restaurante La Gaditana,Mediterránea,Medio,2384 opiniones,Buen bar cerca del wizink,No disponible,POINT EMPTY,No encontrado,,
+156,156,Queen Burger Gourmet,Italiana,Medio,289 opiniones,Hamburguesas muy buenas,No disponible,POINT EMPTY,No encontrado,,
+157,157,Santita Fuencarral,Mexicana,Medio,1072 opiniones,Comida sabrosa y cócteles de rechupete,No disponible,POINT EMPTY,No encontrado,,
+158,158,Yakitoro Castellana,Japonesa,Medio,2262 opiniones,Mejor de lo esperado,"P.º de la Castellana, 130, 28046 Madrid",POINT (-3.6901909 40.4501985),Cuatro Caminos,40.4501985,-3.6901909
+159,159,La Capricciosa Italiana,Italiana,Bajo,122 opiniones,Muy rico todo,"C. de las Maldonadas, 4, 28005 Madrid",POINT (-3.707641545906433 40.4110151),Embajadores,40.4110151,-3.707641545906433
+160,160,Restaurante Luxury,China,Medio,546 opiniones,pato trufa .nigri.uramakir,"Calle de Sandoval, 18, 28010 Madrid",POINT (-3.704908 40.4302666),Universidad,40.4302666,-3.704908
+161,161,Lafayette,Francesa,Medio,200 opiniones,Buena opción,No disponible,POINT EMPTY,No encontrado,,
+162,162,La Tabarra Madrid,Bar,Medio,71 opiniones,Camarero muy atento i eficiente.,"C. de Guzmán el Bueno, 50, 28015 Madrid",POINT (-3.7129806 40.4358894),Gaztambide,40.4358894,-3.7129806
+163,163,Bar Selva,Mediterránea,Bajo,175 opiniones,Buen sitio para ir de menú,No disponible,POINT EMPTY,No encontrado,,
+164,164,Impasta,Italiana,Medio,66 opiniones,Varios días en Madrid,No disponible,POINT EMPTY,No encontrado,,
+165,165,Viva Chapata,Bar,Medio,184 opiniones,Comida vegana en Lavapies,"C. del Ave María, 43, 28012 Madrid",POINT (-3.7009105 40.4094543),Embajadores,40.4094543,-3.7009105
+166,166,El Cocodrilo,Bar,Medio,226 opiniones,Buen sitio para ir con amigos. Buena carne,No disponible,POINT EMPTY,No encontrado,,
+167,167,Passaparola L´Originale,Italiana,Medio,300 opiniones,Italiano DELICIOSO!!,"C. de Guareña, 10, 28044 Madrid",POINT (-3.7660957 40.3878815),Aguilas,40.3878815,-3.7660957
+168,168,L' Incanto Gastrobar,Italiana,Medio,25 opiniones,"No hay palabras a la lengua, para describir lo rico que esta","C. de Eraso, 14, 28028 Madrid",POINT (-3.6710249 40.4340666),Guindalera,40.4340666,-3.6710249
+169,169,Pasta Mito,Italiana,Medio,221 opiniones,Comida italiana,"C. de Bolivia, 9, 28016 Madrid",POINT (-3.6784512 40.4575854),Hispanoamérica,40.4575854,-3.6784512
+170,170,Taberna el Sur,Bar,Medio,8580 opiniones,Excelente calidad,No disponible,POINT EMPTY,No encontrado,,
+171,171,Propaganda,Italiana,Medio,135 opiniones,Italiano acogedor,No disponible,POINT EMPTY,No encontrado,,
+172,172,Pituca Lounge,Bares y pubs,Medio,185 opiniones,Recomendado 100%,"P.º del Pintor Rosales, 24, 28008 Madrid",POINT (-3.7190804 40.4265242),Casa de Campo,40.4265242,-3.7190804
+173,173,Divina Dolores,Internacional,Medio,63 opiniones,Excelente restaurante,"Av. del Monasterio de El Escorial, 10, 12, 28949 Madrid",POINT EMPTY,No encontrado,,
+174,174,Puccias | Sandwichería Delicatessen,Comida rápida,Medio,72 opiniones,100% recomendable,"C. de la Libertad, 9, 28004 Madrid",POINT (-3.6974311 40.4207109),Justicia,40.4207109,-3.6974311
+175,175,Lamucca de Prado,Italiana,Medio,1958 opiniones,Sorprendente,"C. del Prado, 16, 28014 Madrid",POINT (-3.698712851549911 40.4146932),Cortes,40.4146932,-3.698712851549911
+176,176,El Rincon del Cabo,Bar,Medio,394 opiniones,Chulo,"C. de Lavapiés, 8, 28012 Madrid",POINT (-3.7030479 40.4116527),Embajadores,40.4116527,-3.7030479
+177,177,Sublime Dreams Food,Americana,Medio,243 opiniones,MUY BIEN,"C. Oslo, 53, 28922 Alcorcón, Madrid",POINT (-3.8476277532704177 40.33970455),No encontrado,40.33970455,-3.8476277532704177
+178,178,WelkhomeClub,Latina,Bajo,168 opiniones,Welcome Club lugar para pasarla increíble,"Calle del Monte Esquinza, 15, 28010 Madrid",POINT EMPTY,No encontrado,,
+179,179,niMÚ Barquillo,Mediterránea,Medio,870 opiniones,"Comida muy rica, ambiente clásico",No disponible,POINT EMPTY,No encontrado,,
+180,180,Mesón Molinero,Restaurante de carne,Medio,376 opiniones,Grandioso,"C. de la Alhambra, 72, 28047 Madrid",POINT (-3.7441719 40.3972995),Lucero,40.3972995,-3.7441719
+181,181,Bahía Taberna,Internacional,Medio,1478 opiniones,"comida buena, servicio tb pero algo caro",No disponible,POINT EMPTY,No encontrado,,
+182,182,Lazzarella,Italiana,Medio,60 opiniones,"Es posible volver,",No disponible,POINT EMPTY,No encontrado,,
+183,183,López & López Pizzería,Italiana,Bajo,167 opiniones,Pizzas originales y riquísimas,No disponible,POINT EMPTY,No encontrado,,
+184,184,Steakburger Gran Vía 55,Americana,Medio,1512 opiniones,"buena comida y una gran atención por parte de Ricki el camarero, subirle el sueldo por favor","C.Gran Vía, 55, 28013 Madrid",POINT (-3.7084213 40.4216379),Palacio,40.4216379,-3.7084213
+185,185,Tempus Restaurante,Peruana,Medio,33 opiniones,Repetiría una y mil veces,No disponible,POINT EMPTY,No encontrado,,
+186,186,Gato Gato,Mediterránea,Medio,134 opiniones,Fantástico descubrimiento,"C. del Marqués de Toca, 6, 28012 Madrid",POINT (-3.6962005 40.410177),Embajadores,40.410177,-3.6962005
+187,187,Naomi,Japonesa,Medio,763 opiniones,Muy bueno,"C. de Ávila, 14, 28020 Madrid",POINT (-3.7005787678098674 40.45256265),Cuatro Caminos,40.45256265,-3.7005787678098674
+188,188,Restaurante La Malontina,Internacional,Medio,2196 opiniones,Pequeño local con muy buen producto,"C. de la Verónica, 4, 28014 Madrid",POINT (-3.6954293222344576 40.41175675),Embajadores,40.41175675,-3.6954293222344576
+189,189,Restaurante Étimo by Begoña Fraire,Mediterránea,Alto,887 opiniones,Un maravilloso restaurante,No disponible,POINT EMPTY,No encontrado,,
+190,190,Caro Club,Bares y pubs,Alto,37 opiniones,Buen servicio y diversión,No disponible,POINT EMPTY,No encontrado,,
+191,191,Sushi Tokami,China,Medio,66 opiniones,Buen buffet asiático,"Calle de Modesto Lafuente, 88, 28003 Madrid",POINT (-3.6955555 40.4458894),Rios Rosas,40.4458894,-3.6955555
+192,192,Quispe Madrid,Peruana,Medio,340 opiniones,Buenísimo servicio de parte de José Luis,"C. del Conde de Aranda, 4, 28001 Madrid",POINT (-3.6879591 40.4217288),Recoletos,40.4217288,-3.6879591
+193,193,NAP Lavapies,Italiana,Medio,454 opiniones,Pizza,"C. del Ave María, 19, 28012 Madrid",POINT (-3.7004684 40.4109231),Embajadores,40.4109231,-3.7004684
+194,194,Mercado de San Ildefonso,Tentempiés,Medio,1253 opiniones,Sábado de Tapas,"Calle de Fuencarral, 57, 28004 Madrid",POINT (-3.700857418597951 40.42415565),Universidad,40.42415565,-3.700857418597951
+195,195,Bresca,Italiana,Bajo,790 opiniones,Correcto!!,No disponible,POINT EMPTY,No encontrado,,
+196,196,Trattoria da Alfredo,Italiana,Medio,115 opinionesCierra en 11 minutos,De los sitios que recomiendas a amigos con buen paladar,"C. de El Españoleto, 4, 28010 Madrid",POINT EMPTY,No encontrado,,
+197,197,Piccolina,Italiana,Medio,79 opinionesCierra en 11 minutos,16 km,No disponible,POINT EMPTY,No encontrado,,
+198,198,Los Grifos,Pub con cerveza artesanal,Medio,229 opiniones,Lúpulo Madrid,No disponible,POINT EMPTY,No encontrado,,
+199,199,El Horno Azul,Tentempiés,Bajo,117 opiniones,"Bueno, bonito, barato. Pizza hecha al momento, riquísima.","C. de Leganitos, 14, 28013 Madrid",POINT (-3.7100146 40.4216345),Palacio,40.4216345,-3.7100146
+201,201,Dolores y Lola,Mediterránea,Medio,268 opiniones,Excelente restaurante en Malasaña,"Calle de Monteleón, 17, 28004 Madrid",POINT (-3.7048621 40.4290217),Universidad,40.4290217,-3.7048621
+202,202,Trattoria Popolare Fratelli Figurato,Italiana,Medio,149 opiniones,La mejor pizza que he comido en Madrid.,"Calle de Larra, 13, 28004 Madrid",POINT (-3.7000906 40.4274131),Universidad,40.4274131,-3.7000906
+203,203,Aboca Restobar,Italiana,Bajo,87 opiniones,Es mi primera vez en Madrid,"C. de Tampico, 34, 28027 Madrid",POINT (-3.6322141 40.4397477),Simancas,40.4397477,-3.6322141
+204,204,Brew Wild Pizza Bar,Bares y pubs,Medio,382 opiniones,#From🇨🇷W/love🖤,"Calle de Echegaray, 23, 28014 Madrid",POINT (-3.6995268 40.4147419),Cortes,40.4147419,-3.6995268
+206,206,Ponja Nikkei,Japonesa,Alto,91 opinionesCierra en 11 minutos,Mejor japonés que he probado.,"Calle del Almirante, 20, 28004 Madrid",POINT (-3.6934129 40.4224372),Justicia,40.4224372,-3.6934129
+207,207,El miniBAR,Bares y pubs,Bajo,2560 opiniones,Un sitio estupendo.,"C/ del Mesón de Paños, 1, 28013 Madrid",POINT (-3.7091977 40.4162893),Palacio,40.4162893,-3.7091977
+208,208,Murillo Café - Restaurante,Mediterránea,Medio,1000 opiniones,Muy bien!,"C. de Ruiz de Alarcón, 27, 28014 Madrid",POINT (-3.6913164 40.413041),Jerónimos,40.413041,-3.6913164
+209,209,Mano De Santa,Internacional,Alto,178 opiniones,Excelente,"Calle del General Díaz Porlier, 95, 28006 Madrid",POINT (-3.6765661 40.4340894),Lista,40.4340894,-3.6765661
+210,210,La Taberna de Mister Pinkleton,Bar,Medio,886 opiniones,Encantada,"Pl. de San Miguel, s/n, 28005 Madrid",POINT EMPTY,No encontrado,,
+211,211,Il Boccone,Italiana,Medio,179 opinionesCierra en 11 minutos,"Buen trato, buena comida","C. de Juan de Mariana, 4, 28045 Madrid",POINT (-3.6869451 40.3989517),Delicias,40.3989517,-3.6869451
+212,212,Grosso Napoletano,Italiana,Medio,383 opiniones,Buena pizza,No disponible,POINT EMPTY,No encontrado,,
+213,213,Dog & Fox Urban Kitchen,Mexicana,Medio,42 opinionesCierra en 11 minutos,Comida auténtica americana en pleno barrio de Argüelles,No disponible,POINT EMPTY,No encontrado,,
+214,214,La Taberna De Moncloa,Bar,Bajo,356 opiniones,Buen sitio,"C. de Andrés Mellado, 45, 28015 Madrid",POINT (-3.7144425 40.4351912),Gaztambide,40.4351912,-3.7144425
+215,215,La Sifonería,Mediterránea,Medio,473 opiniones,Muy recomendable! Carpaccio de pez mantequilla,"C. de Martín de los Heros, 27, 28008 Madrid",POINT (-3.7147338 40.4256682),Casa de Campo,40.4256682,-3.7147338
+216,216,O`pulpo,Marisco,Medio,353 opiniones,Muy recomendable,"Calle de los Cañizares, 8, 28012 Madrid",POINT (-3.7018683059565936 40.41281225),Embajadores,40.41281225,-3.7018683059565936
+217,217,Gandarío,Comida rápida,Bajo,573 opiniones,Consumición + tapa rica,No disponible,POINT EMPTY,No encontrado,,
+218,218,Celicioso by Only YOU Hotels,Café y té,Medio,499 opiniones,Desayuno libre de gluten,"C. del Barquillo, 19, 28004 Madrid",POINT (-3.6956952 40.4220636),Justicia,40.4220636,-3.6956952
+219,219,Restaurante El Abuelito,Restaurante de carne,Medio,88 opiniones,9.9 km,No disponible,POINT EMPTY,No encontrado,,
+220,220,Totò E Peppino,Italiana,Medio,315 opinionesCierra en 8 minutos,Buena atención y comida rica,No disponible,POINT EMPTY,No encontrado,,
+221,221,Los Porfiados,Mediterránea,Medio,503 opiniones,Muy recomendable,"C. de Buenavista, 18, 28012 Madrid",POINT (-3.6989646 40.4101148),Embajadores,40.4101148,-3.6989646
+222,222,Jauja Café,Mediterránea,Medio,127 opiniones,Restaurante discreto con platos ricos a buen precio.,"C. de la Encomienda, 22, 28012 Madrid",POINT (-3.7062889 40.410586),Embajadores,40.410586,-3.7062889
+223,223,Tsukuri Soba,China,Medio,37 opiniones,Gyozas espectaculares,"C. de Andrés Mellado, 5, 28015 Madrid",POINT (-3.7146995 40.4310638),Argüelles,40.4310638,-3.7146995
+224,224,Manzoni Trattoria,Italiana,Medio,175 opiniones,"La Trattoria Manzoni, uno de los italianos imprescindibles en Madrid, cambia de ubicación…","C. de Rosario Pino, 6, 28020 Madrid",POINT (-3.6911748 40.4621959),Castillejos,40.4621959,-3.6911748
+225,225,Asador Nuevo Porche,Restaurante de carne,Medio,331 opiniones,El mejor cochinillo,"C. Alaró, 5, 28042 Madrid",POINT (-3.5825308 40.4713093),Timón,40.4713093,-3.5825308
+226,226,Il Cratere del Gusto,Italiana,Medio,185 opiniones,Pequeñito pero coqueto,"C. del Marqués de Urquijo, 27, 28008 Madrid",POINT (-3.7191152 40.4295758),Argüelles,40.4295758,-3.7191152
+227,227,Restaurante Justo a tu Gusto,Brasileña,Medio,211 opiniones,14.6 km,"Av. de la Ermita, 2, 28100 Alcobendas, Madrid",POINT (-3.6369201 40.5355406),No encontrado,40.5355406,-3.6369201
+228,228,Asian Army,Asiática,Medio,53 opiniones,Delicioso,"Calle de Santa Isabel, 5 Dentro Mercado Anton Martin Planta Baja, puesto 7-11, 28012 Madrid",POINT EMPTY,No encontrado,,
+229,229,Almalibre Açaí House Madrid,Café,Medio,151 opiniones,Brunch increíble,"C. de la Libertad, 17, 28004 Madrid",POINT (-3.6974103 40.4211249),Justicia,40.4211249,-3.6974103
+230,230,Sr. Ito Lab,Japonesa,Medio,231 opiniones,Totalmente recomendable. Excelente en todos los sentidos,"C. de Trafalgar, 7, local 2, 28010 Madrid",POINT EMPTY,No encontrado,,
+231,231,Mafrens Healthy Food,Café y té,Medio,49 opiniones,Muy recomendable,"Pl. de Cascorro, 12, 28005 Madrid",POINT (-3.7074617 40.4099472),Embajadores,40.4099472,-3.7074617
+232,232,Cervecería La Mayor,Bar,Medio,438 opiniones,Gran variedad de cervezas,"C. Mayor, 77, 28013 Madrid",POINT (-3.712047951670306 40.415035450000005),Palacio,40.415035450000005,-3.712047951670306
+233,233,Trinakria,Italiana,Bajo,24 opiniones,La migliore pizzeria di Madrid ❤️,"C. de López de Hoyos, 182, 28002 Madrid",POINT (-3.668826 40.4476193),Prosperidad,40.4476193,-3.668826
+234,234,Queen Burger las Tablas,Americana,Medio,169 opiniones,Sugerencia sobre Smash Burguers,"C. de Castiello de Jaca, 14, 28050 Madrid",POINT (-3.6783414 40.5093876),Valverde,40.5093876,-3.6783414
+235,235,Don Giovanni,Italiana,Medio,1005 opinionesCierra en 8 minutos,Delicioso,"Paseo de la R. Cristina, 23, posterior, 28014 Madrid",POINT EMPTY,No encontrado,,
+236,236,Osteria Bravissimo,Francesa,Alto,61 opiniones,Una agradable sorpresa.,"P.º del Pintor Rosales, 52, 28008 Madrid",POINT (-3.721906 40.4294078),Casa de Campo,40.4294078,-3.721906
+237,237,La Pulpería De Victoria,Marisco,Medio,1314 opiniones,Cerca de sol. Recomendable,"Junto a, Calle de La Victoria, Prta del Sol, 2, 28012 Madrid",POINT EMPTY,No encontrado,,
+238,238,DokiDOki,Japonesa,Medio,908 opinionesCierra en 8 minutos,Muy recomendable,"C/ de Villalar, 4, 28001 Madrid",POINT (-3.6898191 40.4210879),Recoletos,40.4210879,-3.6898191
+239,239,Alcaravea,Mediterránea,Medio,523 opiniones,Cena con amigos,No disponible,POINT EMPTY,No encontrado,,
+240,240,Lamucca de Almagro,Internacional,Medio,953 opiniones,Para disfrutar con amigos,"C. de Almagro, 3, 28010 Madrid",POINT (-3.6952621 40.4283158),Justicia,40.4283158,-3.6952621
+241,241,Matador,Bar,Bajo,231 opiniones,Sabor de Marruecos en València,No disponible,POINT EMPTY,No encontrado,,
+242,242,La Bajada Street Food,Peruana,Medio,408 opiniones,Atención estupenda,No disponible,POINT EMPTY,No encontrado,,
+243,243,Pomodoro e Basilico,Italiana,Medio,21 opiniones,Cena improvisada,"C. San Anastasio, 4, 28005 Madrid",POINT (-3.7033722 40.3972382),Acacias,40.3972382,-3.7033722
+244,244,Grosso Napoletano,Italiana,Bajo,188 opiniones,Buenas pizzas,No disponible,POINT EMPTY,No encontrado,,
+245,245,Bresca,Italiana,Medio,146 opiniones,Pizzería en madrid,No disponible,POINT EMPTY,No encontrado,,
+246,246,Gagos pizza,Italiana,Bajo,68 opiniones,14.9 km,No disponible,POINT EMPTY,No encontrado,,
+247,247,Larepera,Bares y pubs,Bajo,56 opinionesAbre en 6 minutos,INDUSTRIABAR,"Pl. Mosén Rubí, 5, 05001 Ávila",POINT (-4.6998653 40.6573029),No encontrado,40.6573029,-4.6998653
+248,248,Artemisa Sol-Gran Via,Mediterránea,Medio,387 opinionesCierra en 6 minutos,PARA REPETIR COMIDA MUY BUENA,"C. de las Tres Cruces, 4, 28013 Madrid",POINT (-3.7029076 40.419207),Sol,40.419207,-3.7029076
+249,249,FORNERIA BALLARO,Italiana,Medio,253 opiniones,Recomendable,"Calle de Sta Engracia, 90, 28010 Madrid",POINT (-3.6998016 40.437811),Trafalgar,40.437811,-3.6998016
+250,250,Restaurante Chulla Ville,Mediterránea,Medio,59 opiniones,El mejor de la zona con diferencia,"C. de Longares, 34, 28022 Madrid",POINT (-3.6095751 40.4317775),Rosas,40.4317775,-3.6095751
+251,251,Noi Due Ristorante Pizzeria,Italiana,Medio,193 opinionesCierra en 6 minutos,Nuestro Italiano favorito,"C. de Vallehermoso, 59, 28015 Madrid",POINT (-3.7085659 40.4368161),Arapiles,40.4368161,-3.7085659
+252,252,Asador Avelino,Restaurante de carne,Medio,310 opiniones,Mejor cochinillo de Madrid,"C. de Joaquín Turina, 42, 28044 Madrid",POINT (-3.7551029 40.3721524),Buenavista,40.3721524,-3.7551029
+253,253,La Carbonera,Mediterránea,Medio,288 opiniones,Muy bien sitio,No disponible,POINT EMPTY,No encontrado,,
+254,254,Casa Benigna,Mediterránea,Alto,959 opiniones,Arroces y socarras en paelleras especialmente diseñadas.,"C. de Benigno Soto, 9, 28002 Madrid",POINT (-3.6743241 40.4480719),Ciudad Jardín,40.4480719,-3.6743241
+255,255,Trattoria Adriana,Italiana,Bajo,42 opinionesCierra en 6 minutos,Maravilloso,"Calle de Dagua, 12 Calle Zapatoca esq, C. de Zipaquirá, 28033 Madrid",POINT EMPTY,No encontrado,,
+256,256,Pez Tortilla,Pub con cerveza artesanal,Bajo,219 opiniones,"Recomendable, bar animado perfecto para un alto en el camino.",No disponible,POINT EMPTY,No encontrado,,
+257,257,Wok Garden Parrilla,China,Medio,74 opiniones,14.3 km,"Av. de Europa, 2, 28922 Alcorcón, Madrid",POINT (-3.8474245 40.3501987),No encontrado,40.3501987,-3.8474245
+258,258,Mu! El Placer De La Carne,Restaurante de carne,Medio,2968 opiniones,Encantador,No disponible,POINT EMPTY,No encontrado,,
+259,259,Hot Now,Italiana,Medio,150 opinionesCierra en 6 minutos,Muy muy bien,"C. de Barbieri, 14, 28004 Madrid",POINT (-3.6979947 40.4213703),Justicia,40.4213703,-3.6979947
+260,260,Mercado de San Miguel,Bar,Medio,34.374 opiniones,El Mercado!,"Pl. de San Miguel, s/n, 28005 Madrid",POINT EMPTY,No encontrado,,
+261,261,La Bella Anna,Italiana,Medio,243 opiniones,LUGAR AGRADABLE PARA COMER,"Av. del Monasterio de Silos, 25, 28049 Madrid",POINT (-3.7109163 40.5037656),Mirasierra,40.5037656,-3.7109163
+262,262,Restaurante Marina Ventura,Marisco,Medio,1595 opiniones,Paella increíble,"C. de Ventura de la Vega, 13, 28014 Madrid",POINT (-3.6989014 40.4153709),Cortes,40.4153709,-3.6989014
+263,263,desengaño13,Mediterránea,Medio,421 opiniones,Raciones y charla,"C. del Desengaño, 13, 28004 Madrid",POINT (-3.7043409 40.4210185),Sol,40.4210185,-3.7043409
+264,264,Los Montes de Galicia,Internacional,Medio,11.477 opinionesCierra en 6 minutos,Super experiencia,"C. de Azcona, 46, 28028 Madrid",POINT EMPTY,No encontrado,,
+265,265,GO!Sushing Getafe,Japonesa,Medio,22 opinionesCierra en 6 minutos,11.3 km,"P.º de La Estación, 13, Portal E, 28904 Madrid",POINT EMPTY,No encontrado,,
+266,266,Casa Jaguar Madrid,Mexicana,Medio,699 opiniones,5✨✨✨✨✨,No disponible,POINT EMPTY,No encontrado,,
+267,267,Aura Cafe,Café,Medio,29 opiniones,Personal muy agradable,No disponible,POINT EMPTY,No encontrado,,
+268,268,Le Coq Atocha,Francesa,Medio,114 opiniones,Muy bueno!,"C. de Atocha, 43, 28012 Madrid",POINT (-3.7010547 40.4133316),Embajadores,40.4133316,-3.7010547
+269,269,Cafeteria HD,Bar,Medio,692 opiniones,Ahí sigue,"C. de Guzmán el Bueno, 67, 28015 Madrid",POINT (-3.7132048 40.4360368),Gaztambide,40.4360368,-3.7132048
+270,270,Casa Macareno,Mediterránea,Medio,424 opiniones,Volveré para probar la ensaladilla,"C. de San Vicente Ferrer, 44, 28004 Madrid",POINT (-3.7048334 40.4258981),Universidad,40.4258981,-3.7048334
+271,271,Oter Epicure,Mediterránea,Medio,407 opiniones,"MUY BUEN SITIO PARA COMER A UN PRECIO RAZONABLE,PERO NO CUMPLEN COVID","C. de Claudio Coello, 71, 28001 Madrid",POINT (-3.686977 40.4224667),Recoletos,40.4224667,-3.686977
+272,272,Xiaolongkan Hot Pot,China,Medio,35 opiniones,Un viaje a China sin salir de Madrid!!,"C. Maestro Arbós, 3, 28045 Legazpi, Madrid",POINT (-3.6948041 40.3903916),Legazpi,40.3903916,-3.6948041
+273,273,Panaria,Café y té,Medio,42 opiniones,Atención cuidada,No disponible,POINT EMPTY,No encontrado,,
+275,275,Pizzeria Fratelli Figurato,Italiana,Bajo,320 opiniones,"Bueno, pero puede mejorar","C. de Alonso Cano, 37, 28003 Madrid",POINT (-3.6978327 40.4389491),Almagro,40.4389491,-3.6978327
+276,276,Everest Curry House,India,Medio,23 opiniones,Genial,"Pl. Tres Olivos, 1, 28034 Madrid",POINT (-3.6904552 40.500384),Valverde,40.500384,-3.6904552
+277,277,Da Nicola Gran Vía,Italiana,Medio,824 opiniones,De lo menor cerca de La Plaza España,"Pl. de los Mostenses, 11, LOCAL, 28015 Madrid",POINT EMPTY,No encontrado,,
+278,278,That's Amore,Italiana,Medio,55 opiniones,Las mejores pizzas de Madrid,"C. de Pelayo, 6, 28004 Madrid",POINT (-3.6989735 40.4220213),Justicia,40.4220213,-3.6989735
+279,279,Alduccio,Italiana,Medio,220 opiniones,Muy recomendable,"Av. de Concha Espina, 8, 28036 Madrid",POINT (-3.6881503 40.4518121),El Viso,40.4518121,-3.6881503
+280,280,Restaurante La Vanduca,Mediterránea,Medio,342 opiniones,"Croquetas, ensaladas y tortilla","C. de Columela, 2, 28001 Madrid",POINT (-3.6881291 40.4210631),Jerónimos,40.4210631,-3.6881291
+281,281,Pans & Company,Café,Bajo,28 opiniones,Buenos bocadillos,No disponible,POINT EMPTY,No encontrado,,
+282,282,Trattoria In Crescendo,Italiana,Medio,175 opiniones,Buenas pizzas,"C. de Jaime el Conquistador, 31, 28045 Madrid",POINT (-3.698131648171755 40.39472105),Chopera,40.39472105,-3.698131648171755
+283,283,Fasfú Burguers,Postres,Bajo,79 opiniones,Comida Rápida,"C. de San Marcos, 24, 28004 Madrid",POINT (-3.6983741 40.4213416),Justicia,40.4213416,-3.6983741
+284,284,MEGU,China,Medio,129 opiniones,UN ASIÁTICO DE CONFIANZA,"Tr.ª de San Isidoro de Sevilla, 28, 28005 Madrid",POINT EMPTY,No encontrado,,
+285,285,Fratelli d'italia Lavapiés,Italiana,Bajo,198 opiniones,Un viaje a Italia sin salir de Madrid,"C. del Sombrerete, 1, 28012 Madrid",POINT (-99.0036553 19.3386613),No encontrado,19.3386613,-99.0036553
+286,286,Piccola Napoli,Italiana,Medio,14 opiniones,Buena comida italiana en Madrid,No disponible,POINT EMPTY,No encontrado,,
+287,287,La Taberna de Francesco,Italiana,Bajo,55 opiniones,"Voy prácticamente todos los días;Francesco y Sara son como familia,el trato es inmejorable y la comida espectacular.","C. de Ríos Rosas, 53, 28003 Madrid",POINT (-3.696326724028965 40.4419464),Rios Rosas,40.4419464,-3.696326724028965
+288,288,Bowlers Kitchen,India,Medio,49 opiniones,Good Vibes Delivery 🛵🥗,No disponible,POINT EMPTY,No encontrado,,
+289,289,El Brasero de Don Pedro,Restaurante de carne,Alto,847 opiniones,Mucho más de lo que esperaba,"Av. de Aragón, 358, 28022 Madrid",POINT (-3.571238224305556 40.4493265),Rejas,40.4493265,-3.571238224305556
+290,290,nonsolocaffé,Italiana,Medio,192 opiniones,Auténtica comida italiana,"C. de Ríos Rosas, 52, 28003 Madrid",POINT (-3.695821690588716 40.4415315),Rios Rosas,40.4415315,-3.695821690588716
+292,292,Restaurante La Rita,Internacional,Medio,40 opiniones,Comida grupo fenomenal,No disponible,POINT EMPTY,No encontrado,,
+293,293,Asia Te,China,Medio,163 opiniones,Buenísimo,"C. de Agustín de Foxá, 27, 28036 Madrid",POINT (-3.6852032 40.4707986),Castilla,40.4707986,-3.6852032
+294,294,Diaz y Larrouy,Mediterránea,Medio,136 opiniones,"Una pena, se alquila","C. de Embajadores, 65, 28012 Madrid",POINT (-3.701302795617484 40.40392185),Acacias,40.40392185,-3.701302795617484
+295,295,Mad by Robleño,Mediterránea,Medio,35 opiniones,Para repetir.,"Calle de Diego de León, 26, 28006 Madrid",POINT (-3.682570563157822 40.4345345),Castellana,40.4345345,-3.682570563157822
+296,296,El Cunzato,Italiana,Bajo,31 opiniones,¡Gran descubrimiento!,"C. de Sta. Isabel, 5, 28012 Madrid",POINT (-3.6984768 40.4117321),Embajadores,40.4117321,-3.6984768
+297,297,Crudo,Mediterránea,Medio,13 opiniones,Muy recomendable,No disponible,POINT EMPTY,No encontrado,,
+298,298,La Lonja Restaurante,Marisco,Medio,550 opiniones,Agradable sitio en un lugar privilegiado,No disponible,POINT EMPTY,No encontrado,,
+299,299,Federica By Chef Oswaldo Sanchez,Italiana,Medio,72 opiniones,BUENÍSIMO,No disponible,POINT EMPTY,No encontrado,,
