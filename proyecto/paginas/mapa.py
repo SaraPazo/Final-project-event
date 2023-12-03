@@ -25,22 +25,24 @@ st.subheader("¿Tu ubicación en el mapa?")
 st.write("##")
 mapa = folium.Map(location=[40.416709, -3.690286], zoom_start=15)
 
-selected_barrios = st.multiselect('Elige tu barrio', event_map.barrio.unique())
+selected_barrios = st.selectbox('Elige tu barrio', event_map.barrio.unique())
 
 markers = []
 
 for i in range(0, len(restaurantes_map)):
     if restaurantes_map.barrio[i] in selected_barrios:
+        popup_text = f"{restaurantes_map.nombre[i]}\nPrecio: {restaurantes_map.precio[i]}"
         folium.Marker([float(restaurantes_map.lat[i]), float(restaurantes_map.long[i])],
-                        popup=restaurantes_map.nombre[i],
-                        icon=folium.Icon(color='darkgreen')).add_to(mapa)
+                        popup=folium.Popup(popup_text, parse_html=True),
+                        icon=folium.Icon(color='green')).add_to(mapa)
         markers.append([float(restaurantes_map.lat[i]), float(restaurantes_map.long[i])])
 
 for i in range(0, len(event_map)):
     if event_map.barrio[i] in selected_barrios:
+        popup_text = f"{event_map.nombre[i]}\nPrecio: {event_map.precio[i]}"
         folium.Marker([float(event_map.lat[i]), float(event_map.long[i])],
-                        popup=event_map.nombre[i],
-                        icon=folium.Icon(color='red')).add_to(mapa)
+                        popup=folium.Popup(popup_text, parse_html=True),
+                        icon=folium.Icon(color='blue')).add_to(mapa)
         markers.append([float(event_map.lat[i]), float(event_map.long[i])])
 
 if markers:
