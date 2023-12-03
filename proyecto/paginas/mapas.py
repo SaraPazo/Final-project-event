@@ -32,7 +32,7 @@ map, selection = st.columns(2)
 with map:
     st.subheader("¿Tu ubicación en el mapa?")
     st.write("##")
-    mapa = folium.Map(location=[40.416709, -3.690286], zoom_start=17, color='#0044ff')
+    mapa = folium.Map(location=[40.416709, -3.690286], zoom_start=15)
 
     for i in range(0, len(restaurantes_map)):
         folium.Marker([float(restaurantes_map.lat[i]), float(restaurantes_map.long[i])], 
@@ -48,6 +48,7 @@ with map:
 
 
 with selection:
+    
     st.header('¿Cuál es tu barrio favorito?')
 
     barrio, precio = st.columns(2)
@@ -71,5 +72,27 @@ with selection:
         st.write("No hay eventos que cumplan con los criterios seleccionados.")
 
 
+    st.write("----")        # Crea una linea divisoria
 
- #rest = restaurantes_map[(restaurantes_map.barrio.isin(sel1))]
+    barrio, precio = st.columns(2)
+
+    rest = restaurantes_map[(restaurantes_map.barrio.isin(sel1))]
+
+    with barrio:
+        sel1 = st.multiselect('Elige tu barrio', restaurantes_map.barrio.unique())
+
+    with precio:
+        sel2 = st.selectbox('Elige rango de precio', restaurantes_map.precio.unique())
+
+    restaurante = restaurantes_map[(restaurantes_map.barrio.isin(sel1)) & (restaurantes_map.precio == sel2)]
+
+    if not restaurante.empty:
+        # Mostrar el DataFrame resultante
+        def_restaurante = restaurante[['nombre', 'barrio', 'precio']]
+        st.dataframe(def_restaurante, width = 700)
+
+    else:
+        # Mostrar un mensaje indicando que no hay resultados
+        st.write("No hay eventos que cumplan con los criterios seleccionados.")
+    
+
