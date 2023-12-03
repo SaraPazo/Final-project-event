@@ -45,7 +45,7 @@ if not evento.empty:
     def_event['enlace_clicable'] = def_event['enlace'].apply(lambda x: f'<a href="{x}" target="_blank">{x}</a>')
 
     # Mostrar el DataFrame con la columna de enlaces clicables
-    st.dataframe(def_event[['nombre', 'local', 'barrio', 'ubicacion', 'precio', 'mes', 'dia', 'enlace_clicable']], width=1500, unsafe_allow_html=True)
+    st.write(def_event[['nombre', 'local', 'barrio', 'ubicacion', 'precio', 'mes', 'dia', 'enlace_clicable']], unsafe_allow_html=True)
 else:
     # Mostrar un mensaje indicando que no hay resultados
     st.write("No hay eventos que cumplan con los criterios seleccionados.")
