@@ -15,8 +15,9 @@ st.set_page_config(page_title='Tu experiencia - Restaurantes', page_icon="🍽�
 
 tripadvisor = Image.open('../imagenes/trip.jpeg')
 
+# --- head ---
 
-st.image(tripadvisor, width = 200)
+st.image(tripadvisor, width = 150)
 
 st.title('¿Dónde comemos?')
 

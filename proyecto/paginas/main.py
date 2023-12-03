@@ -15,7 +15,7 @@ import folium
 
 #find more emojis here: https://www.webfx.com/tools/emoji-cheat-sheet/
 
-st.set_page_config(page_title='Crea Tu Experiencia', page_icon="🥁", layout="wide")
+st.set_page_config(page_title='Crea Tu Experiencia', page_icon="😉", layout="wide")
 
 # ----- LOAD COSILLAS ---- 
 
