@@ -22,9 +22,19 @@ st.set_page_config(page_title='Crea Tu Experiencia', page_icon="😉", layout="w
 amanece_contact_form = Image.open('../proyecto/imagenes/Amanece.jpeg')
 terraza_contact_form = Image.open('../proyecto/imagenes/Terraza.jpeg')
 paella_contact_form = Image.open('../proyecto/imagenes/paella.jpeg')
-madrid_contact_form = Image.open('../proyecto/imagenes/madrid.jpeg')
+madrid_contact_form = Image.open('../proyecto/imagenes/madrid.png')
 spainPost_contact_form = Image.open('../proyecto/imagenes/SpainPostcard.jpeg')
-spain_contact_form = Image.open('../proyecto/imagenes/Spain.jpeg')
+
+
+# ---- MENU ---- 
+
+from st_pages import show_pages_from_config, add_page_title
+
+# Either this or add_indentation() MUST be called on each page in your
+# app to add indendation in the sidebar
+add_page_title()
+
+show_pages_from_config()
 
 
 # ---- HEADER ---- 
