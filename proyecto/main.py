@@ -14,9 +14,12 @@ import toml
 import importlib
 
 
-st.set_page_config(page_title='Crea Tu Experiencia', page_icon="😉", layout="wide")
-
-#find more emojis here: https://www.webfx.com/tools/emoji-cheat-sheet/
+# Configuración de la página
+st.set_page_config(
+    page_title='Crea Tu Experiencia',
+    page_icon="😉",
+    layout="wide",
+    initial_sidebar_state="expanded")
 
 
 # ----- LOAD COSILLAS ---- 
@@ -26,29 +29,6 @@ terraza_contact_form = Image.open('../proyecto/imagenes/Terraza.jpeg')
 paella_contact_form = Image.open('../proyecto/imagenes/paella.jpeg')
 madrid_contact_form = Image.open('../proyecto/imagenes/madrid.png')
 spainPost_contact_form = Image.open('../proyecto/imagenes/SpainPostcard.jpeg')
-
-
-# ---- MENU ---- 
-
-
-def main():
-    # Cargar la configuración desde el archivo TOML
-    config = toml.load(".streamlit/pages.toml")
-
-    # Barra lateral como menú de navegación
-    st.sidebar.title('Menú de Navegación')
-
-    # Mostrar el menú con las páginas definidas en el archivo TOML
-    seleccion_pagina = st.sidebar.radio('Ir a:', [pagina["name"] for pagina in config["pages"]])
-
-    # Importar y mostrar la página seleccionada
-    for pagina in config["pages"]:
-        if pagina["name"] == seleccion_pagina:
-            modulo = importlib.import_module(pagina["path"].replace(".py", "").replace("/", "."))
-            modulo.mostrar_pagina()
-
-if __name__ == '__main__':
-    main()
 
 # ---- HEADER ---- 
 
@@ -131,4 +111,3 @@ with text:
 with imagen:
     st.header('A los madrileños nos llaman Gatos')
     st.image(amanece_contact_form, width=600)
-

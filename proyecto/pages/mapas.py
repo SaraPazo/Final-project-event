@@ -7,25 +7,22 @@ from streamlit_folium import st_folium
 st.set_page_config(page_title='Tu experiencia - Mapa', page_icon="🌍", layout="wide")
 
 # ----- LOAD COSILLAS ---- 
+poster_contact_form = Image.open('./imagenes/poster.jpeg')
 
-poster_contact_form = Image.open('../imagenes/poster.jpeg')
+event_map = pd.read_csv('./mapa/csv_map/eventos_map.csv')
+madrid_map = pd.read_csv('./mapa/csv_map/madrid_map.csv')
+restaurantes_map = pd.read_csv('./mapa/csv_map/restaurantes_map.csv')
+
 
 # --- head ---
 st.image(poster_contact_form, width=200)
-st.title('A dónde te gustaría ir?')
+st.title('¿A dónde te gustaría ir?')
 
-event_map = pd.read_csv('../mapa/csv_map/eventos_map.csv')
-madrid_map = pd.read_csv('../mapa/csv_map/madrid_map.csv')
-restaurantes_map = pd.read_csv('../mapa/csv_map/restaurantes_map.csv')
-
-map, selection = st.columns(2)
-
-
-st.subheader("¿Tu ubicación en el mapa?")
+st.subheader("¿Qué barrio de Madrid te queda mejor?")
 st.write("##")
 mapa = folium.Map(location=[40.416709, -3.690286], zoom_start=15)
 
-selected_barrios = st.selectbox('Elige tu barrio', event_map.barrio.unique())
+selected_barrios = st.multiselect('Elige tu barrio favorito', madrid_map.barrio.unique())
 
 markers = []
 
@@ -53,4 +50,35 @@ if markers:
     # Ajustar la ubicación del mapa al centroide
     mapa.location = [center_lat, center_long]
 
-st_folium(mapa, height=650, width=1700)
+st_folium(mapa, height = 700, width=1700)
+
+st.write("----")  # Crea una línea divisoria
+
+st.header('¿Qué tenemos disponible?')
+
+eventos, restaurantes  = st.columns(2)
+
+with eventos:
+    evento = event_map[event_map.barrio.isin(selected_barrios)]
+
+    if not evento.empty:
+        # Mostrar el DataFrame resultante
+        def_event = evento[['nombre', 'barrio', 'precio']]
+        st.dataframe(def_event, width=700)
+
+    else:
+        # Mostrar un mensaje indicando que no hay resultados
+        st.write("No hay eventos que cumplan con los criterios seleccionados.")
+
+with restaurantes:
+
+    rest = restaurantes_map[restaurantes_map.barrio.isin(selected_barrios)]
+
+    if not rest.empty:
+        # Mostrar el DataFrame resultante
+        def_restaurante = rest[['nombre', 'barrio', 'precio']]
+        st.dataframe(def_restaurante, width=700)
+
+    else:
+        # Mostrar un mensaje indicando que no hay resultados
+        st.write("No hay restaurantes que cumplan con los criterios seleccionados.")

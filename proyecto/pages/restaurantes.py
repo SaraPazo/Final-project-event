@@ -13,7 +13,7 @@ st.set_page_config(page_title='Tu experiencia - Restaurantes', page_icon="🍽�
 
 # ----- LOAD COSILLAS ---- 
 
-tripadvisor = Image.open('../imagenes/trip.jpeg')
+tripadvisor = Image.open('./imagenes/trip.jpeg')
 
 # --- head ---
 
@@ -21,7 +21,7 @@ st.image(tripadvisor, width = 150)
 
 st.title('¿Dónde comemos?')
 
-rest = pd.read_csv('../csv/restaurante_fin.csv')
+rest = pd.read_csv('./csv/restaurante_fin.csv')
 
 barrio, gastronomia, precio  = st.columns(3)
 
