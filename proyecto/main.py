@@ -1,4 +1,3 @@
-
 import streamlit as st
 import pandas as pd
 from PIL import Image
@@ -11,11 +10,14 @@ import time
 from streamlit_folium import st_folium
 from streamlit_folium import folium_static
 import folium
+import toml
+import importlib
 
+
+st.set_page_config(page_title='Crea Tu Experiencia', page_icon="😉", layout="wide")
 
 #find more emojis here: https://www.webfx.com/tools/emoji-cheat-sheet/
 
-st.set_page_config(page_title='Crea Tu Experiencia', page_icon="😉", layout="wide")
 
 # ----- LOAD COSILLAS ---- 
 
@@ -28,14 +30,25 @@ spainPost_contact_form = Image.open('../proyecto/imagenes/SpainPostcard.jpeg')
 
 # ---- MENU ---- 
 
-from st_pages import show_pages_from_config, add_page_title
 
-# Either this or add_indentation() MUST be called on each page in your
-# app to add indendation in the sidebar
-add_page_title()
+def main():
+    # Cargar la configuración desde el archivo TOML
+    config = toml.load(".streamlit/pages.toml")
 
-show_pages_from_config()
+    # Barra lateral como menú de navegación
+    st.sidebar.title('Menú de Navegación')
 
+    # Mostrar el menú con las páginas definidas en el archivo TOML
+    seleccion_pagina = st.sidebar.radio('Ir a:', [pagina["name"] for pagina in config["pages"]])
+
+    # Importar y mostrar la página seleccionada
+    for pagina in config["pages"]:
+        if pagina["name"] == seleccion_pagina:
+            modulo = importlib.import_module(pagina["path"].replace(".py", "").replace("/", "."))
+            modulo.mostrar_pagina()
+
+if __name__ == '__main__':
+    main()
 
 # ---- HEADER ---- 
 
