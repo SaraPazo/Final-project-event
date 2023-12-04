@@ -4,25 +4,22 @@
 
 
 ## Indice:
-1.[📜 Descripción](#descripcion)\
-2.[💡 Estructura](#estructura)\
-3.[⏳ Paso a paso](#pasos)\
-4.[📈 Resultado](#resultado)\
-5.[⏭️ Next Steps](#next)\
-6.[📁 Estructura](#Estructura)
+1.[📝 Descripción](#descripcion)\
+2.[🏛 Estructura](#estructura)\
+3.[📈 Resultado](#resultado)\
+4.[🔮 Next Steps](#next)\
 
 
-
-
-## Descripción: <a name="descripcion"/></a>
+## 1. Descripción: <a name="descripcion"/></a>
 
 jhgvugvgjhjhgb
 
 
-## Estructura: <a name="estructura"/></a>
+## 2. Estructura: <a name="estructura"/></a>
 
-1) Las carpetas **entradas** y **restaurantes**, son las principales para la ETL, ya que en estas se encuentra el código para la extracción de los datos, transformación y su limpieza.
-2) La carpeta **proyecto** contiene lo siguiente:
+a) Las carpetas **entradas** y **restaurantes**, son las principales para la ETL, ya que en estas se encuentra el código para la extracción de los datos, transformación y su limpieza.
+
+b) La carpeta **proyecto** contiene lo siguiente:
 - **.streamlit**: contiene la configuración de la web que se ha creado.
 - **csv**: contiene los archivos .csv que han sido utilizados para la visualización.
 - **imagenes**: las imágenes que han sido utilizadas.
@@ -35,7 +32,7 @@ jhgvugvgjhjhgb
 - **paginas**: contiene el código utilizado para las distintas páginas de streamlit.
 
 
-## Paso a paso: <a name="pasos"/></a>
+## 3. Paso a paso: <a name="pasos"/></a>
 
 ### ETL
 
@@ -56,7 +53,7 @@ He usado Streamlit
 
 
 
-## Next Steps: <a name="next"/></a>
+## 4. Next Steps: <a name="next"/></a>
 
 Los siguientes avances para continuar y mejorar este proyecto son los siguientes:
 
