@@ -30,9 +30,7 @@ paella_contact_form = Image.open('../proyecto/imagenes/paella.jpeg')
 madrid_contact_form = Image.open('../proyecto/imagenes/madrid.png')
 spainPost_contact_form = Image.open('../proyecto/imagenes/SpainPostcard.jpeg')
 
-
-#--- OPCIONES ----
-
+# ---- OPCIONES ----
 
 
 # ---- HEADER ---- 
