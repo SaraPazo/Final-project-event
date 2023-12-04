@@ -34,8 +34,6 @@ spainPost_contact_form = Image.open('../proyecto/imagenes/SpainPostcard.jpeg')
 
 st.image(spainPost_contact_form , use_column_width = True)
 
-st.sidebar.header('Menu Lateral')
-
 # Título de la presentación
 st.title('Explora Madrid: Eventos y Gastronomía')
 

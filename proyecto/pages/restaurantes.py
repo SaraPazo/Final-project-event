@@ -17,7 +17,7 @@ tripadvisor = Image.open('./imagenes/trip.jpeg')
 
 # --- head ---
 
-st.image(tripadvisor, width = 150)
+st.image(tripadvisor, width = 120)
 
 st.title('¿Dónde comemos?')
 

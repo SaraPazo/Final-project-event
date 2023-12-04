@@ -15,7 +15,7 @@ restaurantes_map = pd.read_csv('./mapa/csv_map/restaurantes_map.csv')
 
 
 # --- head ---
-st.image(poster_contact_form, width=200)
+st.image(poster_contact_form, width=120)
 st.title('¿A dónde te gustaría ir?')
 
 st.subheader("¿Qué barrio de Madrid te queda mejor?")
@@ -59,11 +59,13 @@ st.header('¿Qué tenemos disponible?')
 eventos, restaurantes  = st.columns(2)
 
 with eventos:
+    
+    st.subheader('¡Eventos disponibles!')
     evento = event_map[event_map.barrio.isin(selected_barrios)]
 
     if not evento.empty:
         # Mostrar el DataFrame resultante
-        def_event = evento[['nombre', 'barrio', 'precio']]
+        def_event = evento[['nombre', 'barrio', 'local', 'precio']]
         st.dataframe(def_event, width=700)
 
     else:
@@ -72,11 +74,13 @@ with eventos:
 
 with restaurantes:
 
+    st.subheader('¡Restaurantes disponibles!')
+
     rest = restaurantes_map[restaurantes_map.barrio.isin(selected_barrios)]
 
     if not rest.empty:
         # Mostrar el DataFrame resultante
-        def_restaurante = rest[['nombre', 'barrio', 'precio']]
+        def_restaurante = rest[['nombre', 'barrio','gastronomia', 'precio']]
         st.dataframe(def_restaurante, width=700)
 
     else:
