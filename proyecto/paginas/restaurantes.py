@@ -38,4 +38,7 @@ with precio:
 restaurante = rest[(rest.barrio.isin(sel1)) & (rest.gastronomia.isin(sel2)) & (rest.precio == sel3)]
 
 def_rests = restaurante[['restaurante','barrio','ubicacion', 'precio', 'reseña']]
-st.dataframe(def_rests, width = 1500)
+
+# Mostrar DataFrame con ancho personalizado
+st.dataframe(def_rests, width=700)
+

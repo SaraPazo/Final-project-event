@@ -33,7 +33,46 @@ st.image(spainPost_contact_form , use_column_width = True)
 
 st.sidebar.header('Menu Lateral')
 
-st.title("Welcome to Madrid!")
+# Título de la presentación
+st.title('Explora Madrid: Eventos y Gastronomía')
+
+# Introducción
+st.markdown(
+    """
+    Madrid, la capital de España, es una ciudad rica en cultura, historia y, por supuesto, gastronomía. 
+    En esta presentación, te llevaremos a un viaje por la vibrante escena de eventos y restaurantes de Madrid, 
+    permitiéndote crear tu plan perfecto para disfrutar al máximo de esta maravillosa ciudad.
+    """
+)
+historia, imagen = st.columns(2)
+
+with historia:
+    # Breve Historia
+    st.header('Historia del Ocio y Gastronomía en Madrid')
+
+    st.markdown(
+        """
+        Madrid ha sido durante mucho tiempo un epicentro de actividad cultural y gastronómica en España. 
+        Desde sus animadas plazas hasta sus estrechas calles llenas de historia, la ciudad ha sido testigo 
+        de eventos que han dejado una marca indeleble en su paisaje cultural.
+
+        La cultura del tapeo, donde disfrutar de pequeñas porciones de deliciosa comida con amigos, es una 
+        tradición arraigada en la vida madrileña. Los bares y tabernas ofrecen una amplia variedad de tapas, 
+        desde clásicas como la tortilla española hasta creaciones modernas que fusionan sabores tradicionales 
+        con toques contemporáneos.
+
+        En cuanto a eventos, Madrid acoge festivales, conciertos y exposiciones a lo largo del año. Desde la 
+        Feria del Libro en el Parque del Retiro hasta conciertos en el Teatro Real, hay algo para todos los gustos 
+        y preferencias culturales.
+
+        Acompáñanos en este recorrido virtual por los barrios de Madrid, donde descubrirás eventos emocionantes 
+        y restaurantes encantadores que te permitirán sumergirte en la rica vida nocturna y gastronómica de la ciudad.
+        """
+    )
+
+with imagen:
+    st.header('A los madrileños nos llaman Gatos')
+    st.image(amanece_contact_form, width=600)
 
 
 # ---- Columas en las que hablaré sobre las múltiples opciones de ocio y disfrute gastronómico en Madrid ----
@@ -70,18 +109,3 @@ with imagen:
     st.header('A los madrileños nos llaman Gatos')
     st.image(amanece_contact_form, width=600)
 
-
-import pandas as pd
-
-# Supongamos que tienes un DataFrame llamado 'datos'
-datos = pd.read_csv('../proyecto/csv/restaurante_fin.csv')
-
-# Insertar y hacer selecciones de filas en una columna específica
-columna_seleccionada = st.multiselect('Selecciona la columna', datos.gastronomia)
-valor_seleccionado = st.multiselect(f'Selecciona un valor en {columna_seleccionada}', datos[columna_seleccionada].unique())
-
-# Filtrar el DataFrame basado en la selección
-datos_filtrados = datos[datos[columna_seleccionada] == valor_seleccionado]
-
-# Mostrar el DataFrame resultante
-st.dataframe(datos_filtrados)

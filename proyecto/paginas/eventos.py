@@ -57,20 +57,14 @@ if not evento.empty:
     # Mostrar el DataFrame resultante
     def_event = evento[['nombre', 'local', 'barrio', 'ubicacion', 'precio', 'mes', 'dia', 'enlace']]
 
-    # Crear una nueva columna con enlaces clicables utilizando Markdown
-    def_event['enlace_clicable'] = def_event['enlace'].apply(lambda url:f"{url}")
+    # Crear columna de enlaces clicables
+    def_event['enlace_clicable'] = def_event['enlace'].apply(lambda url: f'[{url}]({url})')
 
-    # Mostrar los enlaces clicables utilizando st.markdown
-    #for enlace in def_event['enlace_clicable']:
-       # st.markdown(enlace, unsafe_allow_html=True)
-
-    # También puedes mostrar la tabla con los enlaces
-    st.write(def_event[['nombre', 'local', 'barrio', 'ubicacion', 'precio', 'mes', 'dia', 'enlace_clicable']], unsafe_allow_html=True)
-
-#html = f"<a href='{url}'><img src='data:image/png;base64,{plot_url}'></a>"
-#st.markdown(html, unsafe_allow_html=True)
+    # Mostrar DataFrame usando st.write y Markdown
+    st.write(def_event[['nombre', 'local', 'barrio', 'ubicacion', 'precio', 'mes', 'dia', 'enlace_clicable']].to_markdown(index=False), unsafe_allow_html=True)
 
 
 else:
     # Mostrar un mensaje indicando que no hay resultados
     st.write("No hay eventos que cumplan con los criterios seleccionados.")
+
