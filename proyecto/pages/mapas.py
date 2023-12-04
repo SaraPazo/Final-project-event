@@ -16,13 +16,14 @@ restaurantes_map = pd.read_csv('./mapa/csv_map/restaurantes_map.csv')
 
 # --- head ---
 st.image(poster_contact_form, width=120)
+
 st.title('¿A dónde te gustaría ir?')
 
 st.subheader("¿Qué barrio de Madrid te queda mejor?")
 st.write("##")
 mapa = folium.Map(location=[40.416709, -3.690286], zoom_start=15)
 
-selected_barrios = st.multiselect('Elige tu barrio favorito', madrid_map.barrio.unique())
+selected_barrios = st.multiselect('Elige tu zona favorita', madrid_map.barrio.unique())
 
 markers = []
 

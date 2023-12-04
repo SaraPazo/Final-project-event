@@ -23,6 +23,7 @@ st.title('¿Dónde comemos?')
 
 rest = pd.read_csv('./csv/restaurante_fin.csv')
 
+
 barrio, gastronomia, precio  = st.columns(3)
 
 with barrio:
@@ -32,13 +33,20 @@ with gastronomia:
     sel2 = st.multiselect('Elige estilo de comida', rest.gastronomia.unique())
 
 with precio:
-    sel3 = st.selectbox('Elige rango de precio', rest.precio.unique())
+    sel3 = st.multiselect('Elige rango de precio', rest.precio.unique())
 
 
-restaurante = rest[(rest.barrio.isin(sel1)) & (rest.gastronomia.isin(sel2)) & (rest.precio == sel3)]
+restaurante = rest[(rest.barrio.isin(sel1)) & (rest.gastronomia.isin(sel2)) & (rest.precio.isin(sel3))]
 
-def_rests = restaurante[['restaurante','barrio','ubicacion', 'precio', 'reseña']]
 
-# Mostrar DataFrame con ancho personalizado
-st.dataframe(def_rests, width=700)
+if not restaurante.empty:
+
+    def_rests = restaurante[['restaurante','barrio', 'gastronomia', 'ubicacion', 'precio', 'reseña']].to_markdown(index=False)
+
+    # Mostrar DataFrame con ancho personalizado
+    st.write(def_rests, width=1000)
+
+else:
+    # Mostrar un mensaje indicando que no hay resultados
+    st.write("No hay restaurantes que cumplan con los criterios seleccionados.")
 
