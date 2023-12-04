@@ -17,9 +17,17 @@ restaurantes_map = pd.read_csv('./mapa/csv_map/restaurantes_map.csv')
 # --- head ---
 st.image(poster_contact_form, width=120)
 
-st.title('¿A dónde te gustaría ir?')
+# Título de la presentación
+st.markdown(
 
-st.subheader("¿Qué barrio de Madrid te queda mejor?")
+    """
+    <h1 style='font-size: 50px; color: #001F3F; opacity: 0.8;'>¡Dime a dónde vas, y te diré qué tenemos!
+    </h1>
+    """,
+    unsafe_allow_html=True
+)
+
+
 st.write("##")
 mapa = folium.Map(location=[40.416709, -3.690286], zoom_start=15)
 

@@ -1,4 +1,4 @@
-# Proyect: Tu experiencia en Madrid
+# Proyect: Crea tu experiencia completa!
 
 ![imagen](https://github.com/SaraPazo/Final-project-event/blob/main/proyecto/imagenes/madrid.png)
 
@@ -53,6 +53,8 @@ Tras la extracción de los datos, se sigue con su limpieza, hasta conseguir unos
 
 ### VISUALIZACIÓN
 
+--> ### PONER UNA FOTO
+
 He usado Streamlit como herramienta de uso para que el consumidor pueda crear su experiencia completa. 
 
 - **main**: muestra una breve descripción de Madrid centrado en su ocio y gastronomía.
@@ -86,7 +88,7 @@ He usado Streamlit como herramienta de uso para que el consumidor pueda crear su
 
 
 
---> subir el video de streamlit
+--> ### subir el video de streamlit
 
 
 

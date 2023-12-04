@@ -22,7 +22,16 @@ estrella_contact_form = Image.open('./imagenes/estrella.jpeg')
 st.image(entradas_contact_form, width=200)
 
 
-st.title('¿Qué te gustaría hacer?')
+# Título de la presentación
+st.markdown(
+
+    """
+    <h1 style='font-size: 50px; color: #001F3F; opacity: 0.8;'>¿¿Qué te gustaría ver??
+    </h1>
+    """,
+    unsafe_allow_html=True
+)
+
 
 event = pd.read_csv('./csv/eventos_fin.csv')
 

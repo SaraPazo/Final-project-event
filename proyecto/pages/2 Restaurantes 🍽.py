@@ -19,7 +19,17 @@ tripadvisor = Image.open('./imagenes/trip.jpeg')
 
 st.image(tripadvisor, width = 120)
 
-st.title('¿Dónde comemos?')
+# Título de la presentación
+st.markdown(
+
+    """
+    <h1 style='font-size: 50px; color: #001F3F; opacity: 0.8;'>¿¿Y, dónde quieres comer??
+    </h1>
+    """,
+    unsafe_allow_html=True
+)
+
+
 
 rest = pd.read_csv('./csv/restaurante_fin.csv')
 

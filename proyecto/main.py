@@ -138,4 +138,5 @@ with rest:
 
 with imagen:
     st.header('##')
-    st.image(paella_contact_form, width=400)
+    st.image(paella_contact_form, width=300)
+    
