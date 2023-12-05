@@ -82,7 +82,7 @@ He usado Streamlit como herramienta de uso para que el consumidor pueda crear su
 
    Mediante esta selección, se podrán observar los **eventos** disponibles, el **local** en el que se celebra y el **rango de precio** de salida de las entradas. 
 
-   Por otro lado, se podrán observar los **restaurantes** disponibles en el mismo barrio, el **estilo gastronómico** y el **rango de precio**. 
+   Por otro lado, se podrán observar los **restaurantes** disponibles en el mismo barrio, el **estilo gastronómico** y el **rango de precio**. º
 
 **¡De esta forma, el usuario puede realmente crear su experiencia al completo de forma rápida y sencilla!**
 
