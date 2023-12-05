@@ -17,26 +17,9 @@ estrella_contact_form = Image.open('./imagenes/estrella.jpeg')
 
 # --- head ---
 
-# Mostrar las imágenes en columnas
 
-imagen, estacio1, espacio2, espacio3, estrella = st.columns(5)
-
-with imagen:
 # Imagen a la izquierda
-    st.image(entradas_contact_form, width=200)
-
-with estacio1:
-    st.write('##')
-                            
-with espacio2:
-    st.write('##')
-
-with espacio3:
-    st.write('##')
-
-with estrella:
-    st.image(estrella_contact_form, width=70)
-
+st.image(entradas_contact_form, width=200)
 
 
 # Título de la presentación
