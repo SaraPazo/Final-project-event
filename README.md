@@ -86,10 +86,7 @@ He usado Streamlit como herramienta de uso para que el consumidor pueda crear su
 
 **¡De esta forma, el usuario puede realmente crear su experiencia al completo de forma rápida y sencilla!**
 
-
-
---> ### subir el video de streamlit
-
+https://github.com/SaraPazo/Final-project-event/blob/main/proyecto/presentaci%C3%B3n/Grabaci%C3%B3n%20Experiencia.mp4
 
 
 ## 4. Next Steps: <a name="next"/></a>
