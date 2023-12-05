@@ -8,11 +8,12 @@ st.set_page_config(page_title='Tu experiencia - Mapa', page_icon="🌍", layout=
 
 # ----- LOAD COSILLAS ---- 
 poster_contact_form = Image.open('./imagenes/poster.jpeg')
+tripadvisor = Image.open('./imagenes/trip.jpeg')
+estrella_contact_form = Image.open('./imagenes/estrella.jpeg')
 
 event_map = pd.read_csv('./mapa/csv_map/eventos_map.csv')
 madrid_map = pd.read_csv('./mapa/csv_map/madrid_map.csv')
 restaurantes_map = pd.read_csv('./mapa/csv_map/restaurantes_map.csv')
-
 
 # --- head ---
 st.image(poster_contact_form, width=120)
@@ -30,6 +31,7 @@ st.markdown(
 
 st.write("##")
 mapa = folium.Map(location=[40.416709, -3.690286], zoom_start=15)
+
 
 selected_barrios = st.multiselect('Elige tu zona favorita', madrid_map.barrio.unique())
 
@@ -63,13 +65,60 @@ st_folium(mapa, height = 700, width=1700)
 
 st.write("----")  # Crea una línea divisoria
 
-st.header('¿Qué tenemos disponible?')
 
-eventos, restaurantes  = st.columns(2)
+# subtitulo
+st.markdown(
+    """
+    <h5 style='font-size: 40px; color: #001F3F; opacity: 0.8;'>¿Qué tenemos disponible?
+    </h5>
+    """,
+    unsafe_allow_html=True
+)
+
+
+eventos, espacio1, estrella, restaurantes, espacio2, trip = st.columns(6)
+# Mostrar las imágenes en columnas
+
 
 with eventos:
-    
-    st.subheader('¡Eventos disponibles!')
+    # subtitulo
+    st.markdown(
+        """
+        <h5 style='font-size: 30px; color: #001F3F; opacity: 0.8;'>¡Eventos disponibles!
+        </h5>
+        """,
+        unsafe_allow_html=True
+    )
+
+with espacio1:
+    st.write('##')
+             
+with estrella:
+    st.image(estrella_contact_form, width=70)
+
+
+with restaurantes:
+    # subtitulo
+    st.markdown(
+        """
+        <h5 style='font-size: 30px; color: #001F3F; opacity: 0.8;'>¡Restaurantes disponibles!
+        </h5>
+        """,
+        unsafe_allow_html=True
+    )
+
+with espacio2:
+    st.write('##')
+
+with trip:
+    st.image(tripadvisor, width = 100)
+
+
+
+evento, restaurante = st.columns(2)
+
+with evento:
+
     evento = event_map[event_map.barrio.isin(selected_barrios)]
 
     if not evento.empty:
@@ -81,9 +130,8 @@ with eventos:
         # Mostrar un mensaje indicando que no hay resultados
         st.write("No hay eventos que cumplan con los criterios seleccionados.")
 
-with restaurantes:
 
-    st.subheader('¡Restaurantes disponibles!')
+with restaurante:
 
     rest = restaurantes_map[restaurantes_map.barrio.isin(selected_barrios)]
 
