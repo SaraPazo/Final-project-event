@@ -40,6 +40,7 @@ price_min, price_max = event.precio.min(), event.precio.max()
 
 barrio, precio, mes, dia = st.columns(4)
 
+
 with barrio:
     sel1 = st.multiselect('Elige tu barrio', event.barrio.unique())
 
@@ -51,6 +52,7 @@ with mes:
 
 with dia:
     sel4 = st.multiselect('Y... qué día te viene bien?', event.dia.unique().tolist())
+
 
 
 evento = event[(event.barrio.isin(sel1)) & (event.precio.between(sel2[0], sel2[1])) & (event.mes == sel3) & (event.dia.isin(sel4))]

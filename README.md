@@ -7,7 +7,7 @@
 1.[📝 Descripción](#descripcion)\
 2.[🏛 Estructura](#estructura)\
 3.[📈 Resultado](#resultado)\
-4.[🔮 Next Steps](#next)\
+4.[🔮 Next Steps](#next)
 
 
 ## 1. Descripción: <a name="descripcion"/></a>
@@ -82,7 +82,7 @@ He usado Streamlit como herramienta de uso para que el consumidor pueda crear su
 
    Mediante esta selección, se podrán observar los **eventos** disponibles, el **local** en el que se celebra y el **rango de precio** de salida de las entradas. 
 
-   Por otro lado, se podrán observar los **restaurantes** disponibles en el mismo barrio, el **estilo gastronómico** y el **rango de precio**. º
+   Por otro lado, se podrán observar los **restaurantes** disponibles en el mismo barrio, el **estilo gastronómico** y el **rango de precio**.
 
 **¡De esta forma, el usuario puede realmente crear su experiencia al completo de forma rápida y sencilla!**
 
