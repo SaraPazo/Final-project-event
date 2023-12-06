@@ -1,0 +1,8 @@
+pandas
+numpy
+streamlit
+numpy
+folium
+streamlit_folium
+Pillow
+pylab as plt
