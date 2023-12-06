@@ -89,7 +89,7 @@ He usado Streamlit como herramienta de uso para que el consumidor pueda crear su
 ![Grabacion Experiencia](https://github.com/SaraPazo/Final-project-event/assets/145450939/94c2d559-0419-46cd-ad3f-f6c953a6ffde)
 
 
-## 4. Next Steps: <a name="next"/></a>s
+## 4. Next Steps: <a name="next"/></a>
 
 Los siguientes avances para continuar y mejorar este proyecto son los siguientes:
 
