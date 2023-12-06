@@ -23,7 +23,7 @@ st.image(tripadvisor, width = 120)
 st.markdown(
 
     """
-    <h1 style='font-size: 50px; color: #001F3F; opacity: 0.8;'>¿¿Y, dónde quieres comer??
+    <h1 style='font-size: 50px; color: #001F3F; opacity: 0.8;'>Y, ¿ dónde quieres comer ?
     </h1>
     """,
     unsafe_allow_html=True
@@ -36,14 +36,21 @@ rest = pd.read_csv('./csv/restaurante_fin.csv')
 
 barrio, gastronomia, precio  = st.columns(3)
 
+barrio_ordenado = sorted(rest.barrio.unique())
+gastro_ordenado = sorted(rest.gastronomia.unique())
+
+rest['precio_orden'] = rest['precio'].map({'Bajo': 1, 'Medio': 2, 'Alto': 3})
+precio_ordenado = sorted(rest['precio'].unique(), key=lambda x: rest['precio_orden'][rest['precio'] == x].iloc[0])
+
+
 with barrio:
-    sel1 = st.multiselect('Elige barrio', rest.barrio.unique())
+    sel1 = st.multiselect('Elige barrio', barrio_ordenado)
 
 with gastronomia:
-    sel2 = st.multiselect('Elige estilo de comida', rest.gastronomia.unique())
+    sel2 = st.multiselect('Elige estilo de comida', gastro_ordenado)
 
 with precio:
-    sel3 = st.multiselect('Elige rango de precio', rest.precio.unique())
+    sel3 = st.multiselect('Elige rango de precio', precio_ordenado)
 
 
 restaurante = rest[(rest.barrio.isin(sel1)) & (rest.gastronomia.isin(sel2)) & (rest.precio.isin(sel3))]

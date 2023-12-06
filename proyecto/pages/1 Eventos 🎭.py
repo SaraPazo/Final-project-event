@@ -26,7 +26,7 @@ st.image(entradas_contact_form, width=200)
 st.markdown(
 
     """
-    <h1 style='font-size: 50px; color: #001F3F; opacity: 0.8;'>¿¿Qué te gustaría ver??
+    <h1 style='font-size: 50px; color: #001F3F; opacity: 0.8;'>¿ Qué te gustaría ver ?
     </h1>
     """,
     unsafe_allow_html=True
@@ -40,18 +40,21 @@ price_min, price_max = event.precio.min(), event.precio.max()
 
 barrio, precio, mes, dia = st.columns(4)
 
+barrio_ordenado = sorted(event.barrio.unique())
+meses_ordenados = sorted(event.mes.unique())
+dias_ordenados = sorted(event.dia.unique().tolist())
 
 with barrio:
-    sel1 = st.multiselect('Elige tu barrio', event.barrio.unique())
+    sel1 = st.multiselect('Elige tu barrio', barrio_ordenado)
 
 with precio:
     sel2 = st.slider('Rango de precio', price_min, price_max, (price_min, price_max))
                             
 with mes:
-    sel3 = st.selectbox('En qué mes estás pensando?', event.mes.unique())
+    sel3 = st.selectbox('En qué mes estás pensando?', meses_ordenados)
 
 with dia:
-    sel4 = st.multiselect('Y... qué día te viene bien?', event.dia.unique().tolist())
+    sel4 = st.multiselect('Y... qué día te viene bien?', dias_ordenados)
 
 
 

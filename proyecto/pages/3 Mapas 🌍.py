@@ -32,8 +32,8 @@ st.markdown(
 st.write("##")
 mapa = folium.Map(location=[40.416709, -3.690286], zoom_start=15)
 
-
-selected_barrios = st.multiselect('Elige tu zona favorita', madrid_map.barrio.unique())
+barrio_ordenado = sorted(madrid_map.barrio.unique())
+selected_barrios = st.multiselect('Elige tu zona favorita', barrio_ordenado)
 
 markers = []
 
