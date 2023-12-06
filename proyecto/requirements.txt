@@ -5,4 +5,4 @@ numpy
 folium
 streamlit_folium
 Pillow
-pylab as plt
+matplotlib
