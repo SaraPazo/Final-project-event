@@ -86,6 +86,8 @@ He usado Streamlit como herramienta de uso para que el consumidor pueda crear su
 **¡De esta forma, el usuario puede realmente crear su experiencia al completo de forma rápida y sencilla!**
 
 
+https://github.com/SaraPazo/Final-project-event/assets/145450939/d4c9911e-a5d5-4383-a264-14b74610f081
+
 
 
 ## 4. Next Steps: <a name="next"/></a>
