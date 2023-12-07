@@ -92,8 +92,8 @@ https://github.com/SaraPazo/Final-project-event/assets/145450939/d4c9911e-a5d5-4
 
 ## 4. Next Steps: <a name="next"/></a>
 
-Los siguientes avances para continuar y mejorar este proyecto son los siguientes:
+Los siguientes **avances** para continuar y mejorar este proyecto son los siguientes:
 
 - Ampliar los datos a partir de una extracción más amplia y efectiva, además de ampliar los filtros posibles.
-- Mejorar la limpieza de localizaciones con la herramienta Geopy, tanto para restaurantes como para eventos.
-- BONUS: Recomendación por usuarios con gustos similares. 
+- Mejorar la limpieza de localizaciones con la herramienta **Geopy**, tanto para restaurantes como para eventos.
+- BONUS: **Recomendación por usuarios** con gustos similares.
